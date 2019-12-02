@@ -1,0 +1,61 @@
+# Special sessions
+-
+  id: 307
+  title: "Tea and Coffee Break"
+  place: "Lobby"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 503
+  title: "Lunch Break"
+  place: "Cefeteria"
+  service: true
+
+# Talks, field work, Iot, Workshop sessions
+-
+  id: 001
+  title: "Foundations of Data Science"
+  description: "TBD."
+  subtype: workshop
+  speakers: [3, 1]
+  language: en
+  complexity: "Intermediate"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 002
+  title: "Computer Vision"
+  description: "TBD"
+  subtype: presentation
+  speakers: [3]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/"
+-
+  id: 003
+  title: "Reinforcement Learning and Robotics"
+  description: "TBD"
+  subtype: presentation
+  speakers: [5]
+  language: en
+  complexity: "Intermediate"
+  presentation: "https://speakerdeck.com/"
+-
+  id: 004
+  title: "IoT and Embbedded Devices"
+  description: "TBD"
+  subtype: keynote
+  speakers: [1]
+  language: uk
+  complexity: "Beginner"
+  presentation: "https://speakerdeck.com/"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+-
+  id: 005
+  title: "Introduction to Machine Learning"
+  description: "TBD"
+  subtype: presentation
+  speakers: [2]
+  language: en
+  complexity: "Beginner"
+  presentation: "https://speakerdeck.com/"
+  video: "//www.youtube.com/embed/v3SCiUqI1yQ"

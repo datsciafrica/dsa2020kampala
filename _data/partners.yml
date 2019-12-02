@@ -1,0 +1,19 @@
+-
+  group: "Gold sponsors"
+  elements:
+    # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+-
+  group: "Silver Sponsors"
+  elements:
+    # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+-
+  group: "Bronze Sponsors"
+  elements:
+    # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+
+-
+  group: "Partners"
+  elements:
+    - {name: "DeKut", description: "Google", link: "https://www.dkut.ac.ke", imageUrl: "dedan_kimathi.jpg"}
+    - {name: "NM-AUST", description: "Google", link: "https://www.nm-aist.ac.tz", imageUrl: "nmaist-logo.png"}
+    - {name: "AIR Lab", description: "Google", link: "http://www.air.ug", imageUrl: "AI.png"}

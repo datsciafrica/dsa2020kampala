@@ -1,0 +1,189 @@
+# Plugins
+plugins:
+- jekyll-sitemap
+safe: false
+future: true
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+
+# Site Settings
+title: "Data Science Africa VENUE 20XX"
+email: "info@datascienceafrica.org"
+description: "DSA VENUE 2020"
+baseurl: "/dsaXXXX"
+url: "https://datascienceafrica.org"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-80484960-1"
+googleAnalyticsSiteUrl: "datascienceafrica.org"
+# TODO - setup site verification
+# siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
+
+# Organizer Info
+organizerName: "Data Science Africa"
+organizerAlternateName: "Data Science Africa"
+organizerDescription: "Data from a vast array of sources is becoming available in many African countries. Machine learning and analysis are being applied to solve real problems on the ground."
+organizerEmail: "info@datascienceafrica.org"
+organizerLogo: "/img/seo/dsa-logo.png"
+organizerLink: "http://datascienceafrica.org/"
+
+# Head
+metaKeywords: "event, data science, africa, dsa, programming, machine learning, developers"
+twitterAccount: "@dsa_org"
+
+# Documents
+c4pUrl: "https://datascienceafrica.org"
+c4sponsorsUrl: "/assets/TBD"
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/news/", text: "News"}
+ - {permalink: "/team/", text: "Team"}
+ - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/hackathon/", text: "Field Work"}
+
+# Hero Block
+heroImage: "victoria-bill-wegener-unsplash.jpg"
+# Photo by Damian Patkowski on Unsplash
+heroTitle: "Data Science Africa <typeout>"
+eventDate: "Kampala, June 22 - June 26, 2020"
+typeoutTextValues: '"", "Kampala 2013", "Nyeri 2015", "Kampala 2016", "Arusha 2017", "Nyeri 2018", "Abuja 2018", "Addis 2019", "Accra 2019"'
+typeoutFallback: "Kampala 2020"
+heroButtons:
+ - {link: "https://datascienceafrica.org", text: "Register"}
+
+# About Block
+aboutTitle: "Highlights"
+aboutBlock:
+ - {title: "Summer School", image: "conference.jpg", text: "Summer school on machine learning and data science targeting graduate students, researchers and professionals working with huge amounts of data or unique datasets" }
+ - {title: "Workshop", image: "workshop.jpg", text: "Full-day of workshops with paper presentations and interactive panel discussions" }
+ - {title: "Field Work", image: "hackathon.jpg", text: "Practical deployments of IoT and data science solutions." }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "200", specialCharacter: "+", info: "attendees", detail: "from all over Africa and the world"}
+ - {count: "72", specialCharacter: "+", info: "hours", detail: "of training in ML, Data Science ad IoT"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from all over the world"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Conference Hall"
+eventLocationLink: ""
+eventStreetAddress: "22 Teatral'na St"
+eventAddressLocality: "Kampala"
+eventAddressLocalityRegion: "Kampala"
+eventPostalCode: "00000"
+eventAddressCountry: "Uganda"
+eventStartTime: "2020-06-22T08:00"
+eventDoorTime: "08:30"
+eventEndTime: "2020-06-26T17:00"
+eventPlaceCoordinates: "0.3476, 32.5825"
+mapCenterCoordinates: "0.3476, 32.5825"
+mapMobileCenterCoordinates: "0.3476, 32.5825"
+
+# Partners Block
+partnersTitle: "Sponsors"
+partnersC4sponsorsButton: "Become a sponsor"
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Subscribe for updates"
+subscribeAction: ""
+subscribeInfo: "Registration will be open soon. Stay tuned!"
+
+# Footer
+socialLinks:
+ - {link: "https://twitter.com/intent/user?screen_name=dsa_org", icon: "twitter"}
+ - {link: "https://facebook.com/DataScienceAfrica", icon: "facebook"}
+ - {permalink: "/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "http://datascienceafrica.org", text: "DSA Organization"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:info@datascienceafrica.org", text: "info@datascienceafrica.org"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "/cod/", text: "Code of Conduct"}
+
+# Blog
+blogTitle: "Updates"
+blogCommentsEnabled: false
+discusShortName: "dsadiscuss"
+
+# Speakers List Block
+showSessions: true
+
+# Team Block
+teamBlockTitle: "About us"
+aboutUs: "The last few years have witnessed an explosion in the quantity and variety of data available in Africa, produced either as a by-product of digital services, from sensors or measuring devices, satellites and from many other sources. A number of practical fields have been transformed by the ability to collect large volumes of data: for example, bioinformatics with the development of high throughput sequencing technology capable of measuring gene expression in cells, or agriculture with the widespread availability of high quality remote sensing data. For other data sources – such as mobile phone usage records from telecoms operators, which can be used to measure population movement and economic activity – we are just beginning to understand the practical possibilities."
+
+
+# Logistics Direction Details Block
+directionDetailsImage: "direction-details.jpg"
+directionDetailsCards:
+ - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi.'}
+ - {title: "Public Transit", information: 'Matatus are available for transport. You can find your way in Google Maps.'}
+ - {title: "Ride Share", information: 'More information will be available later.'}
+directionDetailsWideCards:
+ -
+  title: "Misc?"
+  subCards:
+   -
+    title: "Visa"
+    links:
+     - {link: "https://xyz", text: "How to Apply"}
+   -
+    title: "Registration"
+    links:
+     - {link: "https://xyz", text: "Challenge"}
+     - {link: "https://xyz", text: "Summer School"}
+     - {link: "https://xyz", text: "Workshop"}
+   -
+    title: "Hotels"
+    links:
+     - {link: "https://xyz", text: "Option A"}
+     - {link: "https://xyz", text: "Option B"}
+     - {link: "https://xyz", text: "Option C"}
+
+# Hackathon
+hackathonTitle: "Field Work"
+enableHackathon: true
+
+# Hackathon About Block
+aboutHackathonTitle: "Field Work Projects"
+hackathonRows:
+ - {title: "Field Work 1", image: "fieldwork-1.jpeg", details: "TBD"}
+ - {title: "Field Work 2", image: "fieldwork-2.jpg", details: "TBD"}
+
+# Hackathon Location Block
+hackathonLocationBlockTitle: "Location"
+hackathonLocationName: "TBD"
+hackathonLocationLink: "http://datascienceafrica.org/"
+hackathonStreetAddress: "1 Halytska St"
+hackathonAddressLocality: "Kampala"
+hackathonAddressLocalityRegion: "Kampala"
+hackathonPostalCode: "00000"
+hackathonAddressCountry: "Uganda"
+hackathonTimeTitle: "Practical Deployment"
+hackathonStartTime: "2020-06-24T10:00"
+hackathonDoorTime: "2020-06-24T10:00"
+hackathonEndTime: "2020-06-24T10:00"
+viewOnMap: "View on Google Maps"
+hackathonPlaceCoordinates: "0.3476, 32.5825"
+hackathonMapCenterCoordinates: "0.3476, 32.5825"
+hackathonMapMobileCenterCoordinates: "0.3476, 32.5825"

@@ -1,0 +1,49 @@
+# Organizers
+-
+  id: 0
+  name: "First"
+  surname: "Last"
+  title: "General Chair"
+  thumbnailUrl: person.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/handle"}
+    - {name: "site", link: "http://site.com/"}
+-
+  id: 2
+  name: "First"
+  surname: "Last"
+  title: "Program Chair"
+  thumbnailUrl: person.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/handle"}
+    - {name: "site", link: "http://site.com/"}
+-
+  id: 3
+  name: "First"
+  surname: "Last"
+  title: "Workshop Chair"
+  thumbnailUrl: person.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/handle"}
+    - {name: "site", link: "http://site.com/"}
+-
+  id: 4
+  name: "First"
+  surname: "Last"
+  title: "Field Work Chair"
+  thumbnailUrl: person.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/handle"}
+    - {name: "site", link: "http://site.com/"}

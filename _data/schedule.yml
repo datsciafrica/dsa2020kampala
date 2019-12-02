@@ -1,0 +1,134 @@
+# Instructions
+#
+# Schedule is organized in tracks (summer school, field work and workshop)
+# This represented by the tuple
+#  [session_id_ss, session_id_fw, ...]
+# Use:
+# - 404 --> to indicate skip/missing section in a track
+# - 307 --> coffee break
+# - 503 --> lunch break
+
+
+# Summer school and field work.
+# ----------------------
+-
+  date: "2020-06-22"
+  dateReadable: "June 22"
+  tracks:
+    - {title: "Summer School", color: "#00843E"}
+    - {title: "Field Work", color: "#03a9f4"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002, 404]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [003, 404]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "11:45",
+    	sessionIds: [307, 404]
+    }
+-
+  date: "2020-06-23"
+  dateReadable: "June 23"
+  tracks:
+    - {title: "Summer School", color: "#00843E"}
+    - {title: "Field Work", color: "#03a9f4"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [004, 404]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [005, 404]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "11:45",
+    	sessionIds: [307, 404]
+    }
+-
+  date: "2020-06-24"
+  dateReadable: "June 24"
+  tracks:
+    - {title: "Summer School", color: "#00843E"}
+    - {title: "Field Work", color: "#03a9f4"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002, 404]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [003, 404]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "11:45",
+    	sessionIds: [307, 404]
+    }
+
+# --------------------------------------------------
+# Workshop
+-
+  date: "2020-06-25"
+  dateReadable: "June 25"
+  tracks:
+    - {title: "Workshop", color: "#E31C23"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:45",
+    	sessionIds: [002]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "13:45",
+        sessionIds: [003]
+    }
+    - {
+    	startTime: "14:00",
+    	endTime: "15:00",
+    	sessionIds: [503]
+    }
+-
+  date: "2020-06-26"
+  dateReadable: "June 26"
+  tracks:
+    - {title: "Workshop", color: "#E31C23"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:45",
+    	sessionIds: [002]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "13:45",
+        sessionIds: [003]
+    }
+    - {
+    	startTime: "14:00",
+    	endTime: "15:00",
+    	sessionIds: [503]
+    }
