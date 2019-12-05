@@ -17,7 +17,7 @@ For each new event installment, follow the following instructions.
 
 ```
 # Here we're basing the new repo on dsaconfstub
-git clone --bare https://github.com/datsciafrica/dsaXXXX.git
+git clone --bare https://github.com/datsciafrica/dsaXXXXstub.git
 # Renane to the event
 mv dsaconfstub dsaYYYYcity.git
 cd dsaYYYYcity.git
