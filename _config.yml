@@ -7,14 +7,14 @@ future: true
 # Build Settings
 markdown: kramdown
 permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
+exclude: ['/automation/', 'README.md', 'original_readme.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "Data Science Africa VENUE 20XX"
 email: "info@datascienceafrica.org"
 description: "DSA VENUE 2020"
 baseurl: "/dsaXXXX"
-url: "https://datascienceafrica.org"
+url: "http://www.datascienceafrica.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-80484960-1"
 googleAnalyticsSiteUrl: "datascienceafrica.org"
@@ -34,29 +34,37 @@ metaKeywords: "event, data science, africa, dsa, programming, machine learning, 
 twitterAccount: "@dsa_org"
 
 # Documents
-c4pUrl: "https://datascienceafrica.org"
+c4pUrl: "http://www.datascienceafrica.org"
 c4sponsorsUrl: "/assets/TBD"
 
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Schedule"}
+ # - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/news/", text: "News"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {permalink: "/hackathon/", text: "Field Work"}
+ - {link: "http://www.datascienceafrica.org", text: "Past Meetings"}
+ - {link: "http://www.datascienceafrica.org", text: "DSA Org"}
+# bottomNavigationLinks:
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+# rightNavigationButtons:
+#  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "victoria-bill-wegener-unsplash.jpg"
 # Photo by Damian Patkowski on Unsplash
-heroTitle: "Data Science Africa <typeout>"
-eventDate: "Kampala, June 22 - June 26, 2020"
-typeoutTextValues: '"", "Kampala 2013", "Nyeri 2015", "Kampala 2016", "Arusha 2017", "Nyeri 2018", "Abuja 2018", "Addis 2019", "Accra 2019"'
+heroTitle: "Data Science Africa, Kampala 2020"
+# heroTitle: "Data Science Africa Kampala 2020<typeout>"
+eventDate: "June 22 - June 26, 2020"
+typeoutTextValues: ''
+# typeoutTextValues: '"", "Kampala 2013", "Nyeri 2015", "Kampala 2016", "Arusha 2017", "Nyeri 2018", "Abuja 2018", "Addis 2019", "Accra 2019"'
 typeoutFallback: "Kampala 2020"
 heroButtons:
- - {link: "https://datascienceafrica.org", text: "Register"}
+ - {link: "http://www.datascienceafrica.org", text: "Register"}
 
 # About Block
 aboutTitle: "Highlights"
@@ -110,7 +118,7 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://datascienceafrica.org", text: "DSA Organization"}
+   - {link: "http://www.datascienceafrica.org", text: "DSA Organization"}
  -
   title: "Contacts"
   links:

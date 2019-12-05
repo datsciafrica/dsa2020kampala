@@ -43,9 +43,9 @@
   id: 004
   title: "IoT and Embbedded Devices"
   description: "TBD"
-  subtype: keynote
-  speakers: [1]
-  language: uk
+  subtype: workshop #keynote
+  speakers: [1, 6]
+  language: en
   complexity: "Beginner"
   presentation: "https://speakerdeck.com/"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"

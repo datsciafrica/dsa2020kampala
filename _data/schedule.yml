@@ -13,32 +13,47 @@
 # ----------------------
 -
   date: "2020-06-22"
-  dateReadable: "June 22"
+  dateReadable: "June 22, 2020"
   tracks:
     - {title: "Summer School", color: "#00843E"}
-    - {title: "Field Work", color: "#03a9f4"}
+    - {title: "Field Work", color: "#000000"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "80:00",
+    	endTime: "08:45",
     	sessionIds: [002, 404]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
+        startTime: "08:45",
+        endTime: "09:30",
         sessionIds: [003, 404]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307, 404]
+    	startTime: "09:30",
+    	endTime: "09:45",
+    	sessionIds: [307]
+    }
+    - {
+    	startTime: "09:45",
+    	endTime: "10:30",
+    	sessionIds: [002, 404]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "12:15",
+        sessionIds: [404, 004]
+    }
+    - {
+    	startTime: "12:15",
+    	endTime: "13:30",
+    	sessionIds: [503]
     }
 -
   date: "2020-06-23"
-  dateReadable: "June 23"
+  dateReadable: "June 23, 2020"
   tracks:
     - {title: "Summer School", color: "#00843E"}
-    - {title: "Field Work", color: "#03a9f4"}
+    - {title: "Field Work", color: "#000000"}
   timeslots:
     - {
     	startTime: "10:00",
@@ -53,14 +68,14 @@
     - {
     	startTime: "12:00",
     	endTime: "11:45",
-    	sessionIds: [307, 404]
+    	sessionIds: [307]
     }
 -
   date: "2020-06-24"
-  dateReadable: "June 24"
+  dateReadable: "June 24, 2020"
   tracks:
     - {title: "Summer School", color: "#00843E"}
-    - {title: "Field Work", color: "#03a9f4"}
+    - {title: "Field Work", color: "#000000"}
   timeslots:
     - {
     	startTime: "10:00",
@@ -75,14 +90,14 @@
     - {
     	startTime: "12:00",
     	endTime: "11:45",
-    	sessionIds: [307, 404]
+    	sessionIds: [307]
     }
 
 # --------------------------------------------------
 # Workshop
 -
   date: "2020-06-25"
-  dateReadable: "June 25"
+  dateReadable: "June 25, 2020"
   tracks:
     - {title: "Workshop", color: "#E31C23"}
   timeslots:
@@ -108,7 +123,7 @@
     }
 -
   date: "2020-06-26"
-  dateReadable: "June 26"
+  dateReadable: "June 26, 2020"
   tracks:
     - {title: "Workshop", color: "#E31C23"}
   timeslots:

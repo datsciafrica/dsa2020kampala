@@ -50,7 +50,7 @@ $small-label-width: 80px;
     }
 }
 .timeslot {
-    background: #fff;
+    background: #ccc;
     border-top: $schedule-border;
     border-left: $schedule-border;
     &:last-child {
@@ -119,6 +119,11 @@ $small-label-width: 80px;
 }
 .track-header-title {
     @extend .slot-title;
+    font-weight: $extra-bold;
+    @media (max-width: 767px) {
+        font-size: 18px;
+        font-weight: $extra-bold;
+    }
 }
 .track-header-slot {
     padding: 10px 15px 10px;

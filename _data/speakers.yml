@@ -8,6 +8,8 @@
   thumbnailUrl: person.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/tt"}
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Chair", url: "https://datascienceafrica.org"}
 -
   id: 2
   name: "Dina"
@@ -18,6 +20,8 @@
   thumbnailUrl: person.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/tt"}
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Treasurer", url: "https://datascienceafrica.org"}
 -
   id: 3
   name: "Earnest"
@@ -54,3 +58,13 @@
     - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
   social:
     - {name: "twitter", link: "https://twitter.com/jadalawa"}
+-
+  id: 6
+  name: "Damon"
+  surname: "Civin"
+  company: "Facebook"
+  title: "Director, Integrity"
+  bio: ""
+  thumbnailUrl: person.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/tt"}
