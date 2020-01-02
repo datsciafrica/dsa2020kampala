@@ -16,10 +16,10 @@ For each new event installment, follow the following instructions.
 5. Go to a suitable directory on your machine and run the following:
 
 ```
-# Here we're basing the new repo on dsaconfstub
+# Here we're basing the new repo on dsaXXXXstub
 git clone --bare https://github.com/datsciafrica/dsaXXXXstub.git
 # Renane to the event
-mv dsaconfstub dsaYYYYcity.git
+mv dsaXXXXstub dsaYYYYcity.git
 cd dsaYYYYcity.git
 git branch -m gh-pages
 git push --mirror git@github.com:datsciafrica/datsciafrica/dsaYYYYcity.git
