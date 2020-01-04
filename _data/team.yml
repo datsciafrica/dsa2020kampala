@@ -13,16 +13,16 @@
     - {name: "site", link: "http://site.com/"}
 -
   id: 2
-  name: "First"
-  surname: "Last"
+  name: "Billy"
+  surname: "Okal"
   title: "Program Chair"
   thumbnailUrl: person.jpg
   team: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
-    - {name: "twitter", link: "https://twitter.com/handle"}
-    - {name: "site", link: "http://site.com/"}
+    - {name: "twitter", link: "https://twitter.com/jadalawa"}
+    - {name: "site", link: "http://makokal.com/"}
 -
   id: 3
   name: "First"
