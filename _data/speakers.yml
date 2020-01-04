@@ -5,7 +5,7 @@
   company: "Dedan Kimathi University of Science and Technology"
   title: "Lecturer and Director Center for AI"
   bio: ""
-  thumbnailUrl: person.jpg
+  thumbnailUrl: ciira.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/tt"}
   ribbon:
@@ -17,7 +17,7 @@
   company: "Nelson Mandela African Institute of Science and Technology"
   title: "Lecturer"
   bio: ""
-  thumbnailUrl: person.jpg
+  thumbnailUrl: dina.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/tt"}
   ribbon:
@@ -25,7 +25,7 @@
 -
   id: 3
   name: "Earnest"
-  surname: "Mweabze"
+  surname: "Mwebabze"
   company: "Google AI Ghana"
   title: "Research Scientist"
   bio: ""
@@ -41,7 +41,7 @@
   company: "Boston University"
   title: "Assistant Professor"
   bio: "a Computational Epidemiologist with a passion for applying novel data and methods to global health problems. She leads a team of computational social scientists, public health experts and computer scientists at Boston University's Department of Global Health. She is also a Data Science Fellow, as part of the BU Data Science Initiative at the Hariri Institute for Computing. She was born and raised in Cameroon."
-  thumbnailUrl: person.jpg
+  thumbnailUrl: elaine.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/ensoesie"}
   ribbon:
@@ -53,7 +53,7 @@
   company: "Voyage Auto"
   title: "Senior Research Engineer"
   bio: ""
-  thumbnailUrl: person.jpg
+  thumbnailUrl: billy.jpg
   ribbon:
     - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
   social:
@@ -64,6 +64,17 @@
   surname: "Civin"
   company: "Facebook"
   title: "Director, Integrity"
+  bio: ""
+  thumbnailUrl: person.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/tt"}
+
+-
+  id: 7
+  name: "First"
+  surname: "Last"
+  company: "Company"
+  title: "Title"
   bio: ""
   thumbnailUrl: person.jpg
   social:

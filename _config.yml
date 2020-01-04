@@ -154,7 +154,7 @@ directionDetailsWideCards:
    -
     title: "Visa"
     links:
-     - {link: "https://xyz", text: "How to Apply"}
+     - {link: "https://visas.immigration.go.ug", text: "How to Apply"}
    -
     title: "Registration"
     links:

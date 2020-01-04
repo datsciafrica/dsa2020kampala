@@ -1,13 +1,11 @@
 # Organizers
 -
   id: 0
-  name: "First"
-  surname: "Last"
+  name: "Joyce"
+  surname: "Nabende"
   title: "General Chair"
-  thumbnailUrl: person.jpg
+  thumbnailUrl: joyce.jpg
   team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "twitter", link: "https://twitter.com/handle"}
     - {name: "site", link: "http://site.com/"}
@@ -16,34 +14,39 @@
   name: "Billy"
   surname: "Okal"
   title: "Program Chair"
-  thumbnailUrl: person.jpg
+  thumbnailUrl: billy.jpg
   team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "twitter", link: "https://twitter.com/jadalawa"}
     - {name: "site", link: "http://makokal.com/"}
 -
   id: 3
-  name: "First"
-  surname: "Last"
+  name: "Martin"
+  surname: "Mubangizi"
   title: "Workshop Chair"
-  thumbnailUrl: person.jpg
+  thumbnailUrl: mubangizi.jpg
   team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "twitter", link: "https://twitter.com/handle"}
     - {name: "site", link: "http://site.com/"}
 -
   id: 4
-  name: "First"
-  surname: "Last"
+  name: "Engineer"
+  surname: "Bianomugisha"
   title: "Field Work Chair"
-  thumbnailUrl: person.jpg
+  thumbnailUrl: engineer.jpg
   team: true
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
   social:
     - {name: "twitter", link: "https://twitter.com/handle"}
     - {name: "site", link: "http://site.com/"}
+
+# -
+#   id: 5
+#   name: "First"
+#   surname: "Last"
+#   title: "Local Co-Chair"
+#   thumbnailUrl: person.jpg
+#   team: true
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/handle"}
+#     - {name: "site", link: "http://site.com/"}

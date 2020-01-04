@@ -59,3 +59,14 @@
   complexity: "Beginner"
   presentation: "https://speakerdeck.com/"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+
+-
+  id: 999
+  title: "TBD"
+  description: "TBD"
+  subtype: presentation
+  speakers: [7]
+  language: en
+  complexity: "Beginner"
+  presentation: "https://speakerdeck.com/"
+  video: "//www.youtube.com/embed/3F7dFzAb_Cc"
