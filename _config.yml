@@ -10,9 +10,9 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'original_readme.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "Data Science Africa VENUE 20XX"
+title: "Data Science Africa Kampala 2020"
 email: "info@datascienceafrica.org"
-description: "DSA VENUE 2020"
+description: "DSA Kampala 2020"
 baseurl: "/dsa2020kampala"
 url: "http://www.datascienceafrica.org"
 permalink: "/blog/:title"
