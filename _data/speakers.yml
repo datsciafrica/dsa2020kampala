@@ -29,7 +29,7 @@
   company: "Google AI Ghana"
   title: "Research Scientist"
   bio: ""
-  thumbnailUrl: person.jpg
+  thumbnailUrl: earnest.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/earnest"}
   ribbon:
@@ -63,11 +63,11 @@
   name: "Damon"
   surname: "Civin"
   company: "Facebook"
-  title: "Director, Integrity"
+  title: "Head of Data Science, Growth"
   bio: ""
-  thumbnailUrl: person.jpg
+  thumbnailUrl: damon.jpg
   social:
-    - {name: "twitter", link: "https://twitter.com/tt"}
+    - {name: "twitter", link: "https://twitter.com/DCivin"}
 
 -
   id: 7
@@ -77,5 +77,40 @@
   title: "Title"
   bio: ""
   thumbnailUrl: person.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/tt"}
+
+-
+  id: 8
+  name: "Neil"
+  surname: "Lawrence"
+  company: "Cambridge University"
+  title: "Professor"
+  bio: ""
+  thumbnailUrl: neil.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/lawrend"}
+  ribbon:
+    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
+-
+  id: 9
+  name: "John"
+  surname: "Quinn"
+  company: "Google AI"
+  title: "Research Scientist"
+  bio: ""
+  thumbnailUrl: johnquinn.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/tt"}
+  ribbon:
+    - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
+-
+  id: 10
+  name: "Mike"
+  surname: "Smith"
+  company: "Sheffield University"
+  title: "Post Doc"
+  bio: ""
+  thumbnailUrl: mike.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/tt"}
