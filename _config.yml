@@ -35,7 +35,7 @@ twitterAccount: "@dsa_org"
 
 # Documents
 c4pUrl: "http://www.datascienceafrica.org"
-c4sponsorsUrl: "/assets/TBD"
+c4sponsorsUrl: "/tbd"
 
 
 # Navigation
@@ -57,14 +57,21 @@ navigationLinks:
 # Hero Block
 heroImage: "makerere-main.jpg"
 # Photo by Damian Patkowski on Unsplash
-heroTitle: "Data Science Africa, Kampala 2020"
+heroTitle: "Data Science Africa, Kampala"
 # heroTitle: "Data Science Africa Kampala 2020<typeout>"
-eventDate: "June 22 - June 26, 2020"
+eventDate: "June 22 - 26, 2020"
 typeoutTextValues: ''
 # typeoutTextValues: '"", "Kampala 2013", "Nyeri 2015", "Kampala 2016", "Arusha 2017", "Nyeri 2018", "Abuja 2018", "Addis 2019", "Accra 2019"'
 typeoutFallback: "Kampala 2020"
 heroButtons:
- - {link: "http://www.datascienceafrica.org", text: "Register"}
+ - {permalink: "/tbd", text: "Register for Summer School"}
+ - {permalink: "/tbd", text: "Register for Workshop"}
+prepLinks:
+ - {link: "https://jupyter.readthedocs.io/en/latest/", text: "Getting started with Jupyter notebooks"}
+ - {link: "https://scipy-lectures.org", text: "Introductory SciPy lectures"}
+ - {link: "https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html", text: "Pandas 101"}
+ - {link: "https://colab.research.google.com/notebooks/intro.ipynb", text: "Colab basics"}
+ - {link: "https://github.com/datsciafrica/presentations", text: "Previous DSA events material"}
 
 # About Block
 aboutTitle: "Highlights"

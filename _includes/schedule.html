@@ -1,18 +1,21 @@
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
+      <div class="col-lg-10 col-lg-offset-1">
+        <h4 class="text-left">Before the event</h4>
+        <p class="text-left">
+          In order for smooth running of the event, we require that all participants adequately prepare before arriving at the event.
+          We will use Python as the main programming language for demonstration of concepts covered in the summer school.
+          As part of the preparation, software installation and and some light reading outlined below is recommended.
+          Please download and install <a href="https://www.anaconda.com/distribution/" target="_blank">Anaconda python distribution</a>, version 3.6 and above.
+        </p>
 
-        <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
-          <h4 class="text-left">Before the event</h4>
-          <p class="text-left">
-            In order for smooth running of the event, we require that all participants adequately prepare before arriving at the event. As part of the preparation, software installation and and some light reading outlined below is recommended.
-          </p>
-
-          <h5 class="text-left">Software</h5>
-          <p class="text-left">
-            Please download and install Anaconda python distribution, version 3.6 and above.
-          </p>
-        </div>
+        <ul class="text-left">
+            {% for linkElement in site.prepLinks %}
+            <li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a></li>
+            {% endfor %}
+        </ul>
+      </div>
 
         {% for day in site.data.schedule_tbd %}
         <div class="schedule-table col-lg-8 col-md-10 col-md-offset-1">
