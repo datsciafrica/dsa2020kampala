@@ -13,6 +13,6 @@ Thumbs.db
 ehthumbs.db
 
 # Temp files.
-*DS_Store
-*.DS_Store
-*/*.DS_Store
+
+**/.DS_Store
+
