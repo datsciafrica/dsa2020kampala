@@ -7,7 +7,7 @@
   thumbnailUrl: joyce.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/handle"}
+    - {name: "twitter", link: "https://twitter.com/j_nabende"}
     - {name: "site", link: "http://site.com/"}
 -
   id: 2
@@ -27,17 +27,17 @@
   thumbnailUrl: mubangizi.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/handle"}
+    - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
     - {name: "site", link: "http://site.com/"}
 -
   id: 4
   name: "Engineer"
-  surname: "Bianomugisha"
+  surname: "Bainomugisha"
   title: "Field Work Chair"
   thumbnailUrl: engineer.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/handle"}
+    - {name: "twitter", link: "https://twitter.com/iBaino"}
     - {name: "site", link: "http://site.com/"}
 
 # -
