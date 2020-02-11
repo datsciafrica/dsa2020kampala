@@ -182,8 +182,8 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "Field Work Projects"
 hackathonRows:
- - {title: "Field Work 1", image: "fieldwork-1.jpeg", details: "TBD"}
- - {title: "Field Work 2", image: "fieldwork-2.jpg", details: "TBD"}
+ - {title: "Crop disease monitoring", image: "cropMonitoringFields.png", details: "The objective of this field work is to provide participants with hands-on experience in crop diseae monotoring using mobile phone and spectrometry. This will be based on a research project aimed at developing experimental tools and techniques needed for the surveillance and detection of serious viral crop diseases, which affect Uganda and the East African region. The following core areas have been investigated on and will be demonstrated during the field study. These include <ol type='circle'><li>mobile data collection in the field</li><li> diagnosis of crop disease in the field based on crop images </li><li> mobile phone applications for auto pest and disease count</li><li>Spectrometry of early disease dectection</li></ol>"} 
+ - {title: "Air pollution monitoring", image: "AirQoFieldwork.png", details: "The objective of this field work is to provide participants with hands-on experience on building an air quality IoT device. The session will start with an introduction to air pollution, its effects, different types of pollutants and air quality sensing technologies. Participants will be able to prototype and deploy an IoT device that is capable of collecting air quality data and transmitting it in real-time to a cloud-based platform for analysis."}
 
 # Hackathon Location Block
 hackathonLocationBlockTitle: "Location"
