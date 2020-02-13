@@ -24,7 +24,7 @@
   name: "Martin"
   surname: "Mubangizi"
   title: "Workshop Chair"
-  thumbnailUrl: mubangizi.jpg
+  thumbnailUrl: martin.png
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
@@ -34,7 +34,7 @@
   name: "Engineer"
   surname: "Bainomugisha"
   title: "Field Work Chair"
-  thumbnailUrl: engineer.jpg
+  thumbnailUrl: engineer.png
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/iBaino"}
