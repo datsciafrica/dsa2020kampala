@@ -16,6 +16,26 @@
           </div>
 
         </div>
+        <div style='margin-top: 10px'><p style="font-size:18px font-weight:bold"> Applications open on {{site.startRegistration}} &amp; close on {{site.endRegistration}} </p></div>
+        <div style='padding: 20px; margin: 10px'>
+             <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
+        </div>
+        
+        <div>
+            <ul class="social-links">
+				{% for social in site.socialLinks %}
+				<li>
+					<a href="{% if social.permalink != null %} {{ social.permalink | prepend: site.baseurl }} {% else %} {{ social.link }} {% endif %}" target="_blank">
+						<svg class="icon icon-{{ social.icon }}" viewBox="0 0 30 32">
+							<use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-{{ social.icon }}"></use>
+						</svg>
+					</a>
+				</li>
+				{% endfor %}
+			</ul>
+        </div>
+        
+        
     </div>
     <a href="#about" class="explore">
         <svg class="icon icon-arrow-down" viewBox="0 0 32 32">
