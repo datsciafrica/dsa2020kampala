@@ -60,6 +60,8 @@ heroImage: "makerere-main.jpg"
 heroTitle: "Data Science Africa, Kampala"
 # heroTitle: "Data Science Africa Kampala 2020<typeout>"
 eventDate: "June 22 - 26, 2020"
+startRegistration: "March 1, 2020"
+endRegistration: "April 15, 2020"
 typeoutTextValues: ''
 # typeoutTextValues: '"", "Kampala 2013", "Nyeri 2015", "Kampala 2016", "Arusha 2017", "Nyeri 2018", "Abuja 2018", "Addis 2019", "Accra 2019"'
 typeoutFallback: "Kampala 2020"
