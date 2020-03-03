@@ -1,6 +1,5 @@
 @import "compass";
-@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
 
 // Font weights
 $light: 100;
@@ -9,13 +8,13 @@ $bold: 500;
 $extra-bold: 600;
 
 // Base Font
-$base-font-family: 'IBM Plex Sans', sans-serif;
+$base-font-family: 'Work Sans', sans-serif;
 $base-font-weight: $regular;
 $base-font-size: 13px;
 $base-line-height: 23px;
 
 // Fixed Font
-$fixed-font-family: 'IBM Plex Sans', sans-serif;
+$fixed-font-family: 'Work Sans', sans-serif;
 $fixed-font-size: 85%;
 $fixed-line-height: $base-line-height;
 
@@ -27,7 +26,7 @@ $h3-font-size: 4 * $base-font-size;
 $h4-font-size: 3.125 * $base-font-size;
 $h5-font-size: 2.3 * $base-font-size;
 $h6-font-size: 1.875 * $base-font-size;
-$headings-font-fam: 'Raleway', sans-serif;
+$headings-font-fam: 'Work Sans', sans-serif;
 
 // Colors
 // $main-color: #03a9f4;
