@@ -131,6 +131,7 @@ footerBlocks:
  -
   title: "Contacts"
   links:
+   - {link: "mailto:dsakampala2020@gmail.com", text: "dsakampala2020@gmail.com"}
    - {link: "mailto:info@datascienceafrica.org", text: "info@datascienceafrica.org"}
  -
   title: "FAQ"
@@ -167,9 +168,9 @@ directionDetailsWideCards:
    -
     title: "Registration"
     links:
-     - {link: "https://xyz", text: "Challenge"}
-     - {link: "https://xyz", text: "Summer School"}
-     - {link: "https://xyz", text: "Workshop"}
+     - {permalink: "/tbd", text: "Challenge"}
+     - {permalink: "/tbd", text: "Summer School"}
+     - {permalink: "/tbd", text: "Workshop"}
    -
     title: "Hotels"
     links:
@@ -187,20 +188,4 @@ hackathonRows:
  - {title: "Crop disease monitoring", image: "cropMonitoringFields.png", details: "The objective of this field work is to provide participants with hands-on experience in crop diseae monotoring using mobile phone and spectrometry. This will be based on a research project aimed at developing experimental tools and techniques needed for the surveillance and detection of serious viral crop diseases, which affect Uganda and the East African region. The following core areas have been investigated on and will be demonstrated during the field study. These include <ol type='circle'><li>mobile data collection in the field</li><li> diagnosis of crop disease in the field based on crop images </li><li> mobile phone applications for auto pest and disease count</li><li>Spectrometry of early disease dectection</li></ol>"} 
  - {title: "Air pollution monitoring", image: "AirQoFieldwork.png", details: "The objective of this field work is to provide participants with hands-on experience on building an air quality IoT device. The session will start with an introduction to air pollution, its effects, different types of pollutants and air quality sensing technologies. Participants will be able to prototype and deploy an IoT device that is capable of collecting air quality data and transmitting it in real-time to a cloud-based platform for analysis."}
 
-# Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "TBD"
-hackathonLocationLink: "http://datascienceafrica.org/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Kampala"
-hackathonAddressLocalityRegion: "Kampala"
-hackathonPostalCode: "00000"
-hackathonAddressCountry: "Uganda"
-hackathonTimeTitle: "Practical Deployment"
-hackathonStartTime: "2020-06-24T10:00"
-hackathonDoorTime: "2020-06-24T10:00"
-hackathonEndTime: "2020-06-24T10:00"
-viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "0.3476, 32.5825"
-hackathonMapCenterCoordinates: "0.3476, 32.5825"
-hackathonMapMobileCenterCoordinates: "0.3476, 32.5825"
+
