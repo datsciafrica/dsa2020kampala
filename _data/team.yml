@@ -40,13 +40,24 @@
     - {name: "twitter", link: "https://twitter.com/iBaino"}
     - {name: "site", link: "http://site.com/"}
 
-# -
-#   id: 5
-#   name: "First"
-#   surname: "Last"
-#   title: "Local Co-Chair"
-#   thumbnailUrl: person.jpg
-#   team: true
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/handle"}
-#     - {name: "site", link: "http://site.com/"}
+-
+  id: 5
+  name: "Morine"
+  surname: "Amutorine"
+  title: "Social Media and Communications"
+  thumbnailUrl: morine.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/theamutorine"}
+    - {name: "site", link: "http://site.com/"}
+
+-
+  id: 6
+  name: "Solomon"
+  surname: "Nsumba"
+  title: "Local Assistance"
+  thumbnailUrl: solomon.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/snsumba"}
+    - {name: "site", link: "http://site.com/"}

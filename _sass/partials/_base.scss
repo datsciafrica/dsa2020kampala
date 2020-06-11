@@ -1,20 +1,22 @@
 @import "compass";
-@import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
+// @import url('https://fonts.googleapis.com/css?family=Work+Sans&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap');
 
 // Font weights
-$light: 100;
-$regular: 300;
-$bold: 500;
-$extra-bold: 600;
+$light: 300;
+$regular: 600;
+$bold: 900;
+$extra-bold: 1200;
 
 // Base Font
-$base-font-family: 'Work Sans', sans-serif;
+$base-font-family: 'Source Sans Pro', sans-serif;
 $base-font-weight: $regular;
-$base-font-size: 13px;
+$base-font-size: 14px;
 $base-line-height: 23px;
 
 // Fixed Font
-$fixed-font-family: 'Work Sans', sans-serif;
+$fixed-font-family: 'Source Sans Pro', sans-serif;
 $fixed-font-size: 85%;
 $fixed-line-height: $base-line-height;
 
@@ -26,7 +28,7 @@ $h3-font-size: 4 * $base-font-size;
 $h4-font-size: 3.125 * $base-font-size;
 $h5-font-size: 2.3 * $base-font-size;
 $h6-font-size: 1.875 * $base-font-size;
-$headings-font-fam: 'Work Sans', sans-serif;
+$headings-font-fam: 'Source Sans Pro', sans-serif;
 
 // Colors
 // $main-color: #03a9f4;

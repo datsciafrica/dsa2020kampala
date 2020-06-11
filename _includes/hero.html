@@ -2,7 +2,7 @@
 <section id="top-section-hero" class="top-section-hero top-section image-section" style="background-image: url('{{ site.baseurl }}/img/sections-background/{{ site.heroImage }}');">
     {% include navigation.html %}
     <div class="content-wrapper">
-    <div class="jumbotron" style="background-color: rgba(0,0,0, 0.5); width: 70%;text-align: center;transform: translate(20%); padding: 10px 10px 10px 20px; margin-top: -150px;">
+    <div class="jumbotron" style="background-color: rgba(0,0,0, 0.5); width: 60%;text-align: center;transform: translate(30%); padding: 10px 10px 10px 20px; margin-top: -150px;">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
           <div >
             <h1>{{ site.heroTitle }}</h1>
@@ -16,12 +16,10 @@
           </div>
 
         </div>
-        <div style='margin-top: 10px'><p style="font-size:18px font-weight:bold"> Applications open on {{site.startRegistration}} &amp; close on {{site.endRegistration}} </p></div>
-        <div style='padding: 20px; margin: 10px'>
-             <a href="{{ site.c4sponsorsUrl | prepend: site.baseurl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
-        </div>
-        
+        <br>
+        <div style='margin-top: 10px'><p style="font-size:18px font-weight:normal;"> Registration opens on {{site.startRegistration}} &amp; close on {{site.endRegistration}} </p></div>
         <div>
+            <br>
             <ul class="social-links">
 				{% for social in site.socialLinks %}
 				<li>

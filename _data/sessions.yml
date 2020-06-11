@@ -70,3 +70,13 @@
   complexity: "Beginner"
   presentation: "https://speakerdeck.com/"
   video: "//www.youtube.com/embed/3F7dFzAb_Cc"
+
+-
+  id: 1000
+  title: "Welcome and opening remarks"
+  description: "Introduction to the summer school"
+  subtype: presentation
+  speakers: [11,5]
+  language: en
+  complexity: "Beginner"
+  presentation: "https://speakerdeck.com/"

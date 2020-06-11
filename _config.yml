@@ -10,9 +10,9 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'original_readme.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "Data Science Africa Kampala 2020"
+title: "Virtual Data Science Africa Kampala 2020"
 email: "info@datascienceafrica.org"
-description: "DSA Kampala 2020"
+description: "Virtual DSA Kampala 2020"
 baseurl: "/dsa2020kampala"
 url: "http://www.datascienceafrica.org"
 permalink: "/blog/:title"
@@ -46,7 +46,7 @@ navigationLinks:
  - {permalink: "/news/", text: "News"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Field Work"}
+ - {permalink: "/hackathon/", text: "Virtual Field Work"}
  - {link: "http://www.datascienceafrica.org", text: "Past Meetings"}
  - {link: "http://www.datascienceafrica.org", text: "DSA Org"}
 # bottomNavigationLinks:
@@ -57,17 +57,17 @@ navigationLinks:
 # Hero Block
 heroImage: "makerere-main.jpg"
 # Photo by Damian Patkowski on Unsplash
-heroTitle: "Data Science Africa, Kampala"
+heroTitle: "Virtual Data Science Africa"
 # heroTitle: "Data Science Africa Kampala 2020<typeout>"
-eventDate: "June 22 - 26, 2020"
-startRegistration: "March 1, 2020"
-endRegistration: "April 15, 2020"
+eventDate: "July 24 - 31, 2020"
+startRegistration: "June 20, 2020"
+endRegistration: "July 15, 2020"
 typeoutTextValues: ''
 # typeoutTextValues: '"", "Kampala 2013", "Nyeri 2015", "Kampala 2016", "Arusha 2017", "Nyeri 2018", "Abuja 2018", "Addis 2019", "Accra 2019"'
 typeoutFallback: "Kampala 2020"
 heroButtons:
- - {permalink: "/tbd", text: "Register for Summer School"}
- - {permalink: "/tbd", text: "Register for Workshop"}
+ - {permalink: "/tbd", text: "Register Now"}
+ # - {permalink: "/tbd", text: "Submit Workshop Abstract"}
 prepLinks:
  - {link: "https://jupyter.readthedocs.io/en/latest/", text: "Getting started with Jupyter notebooks"}
  - {link: "https://scipy-lectures.org", text: "Introductory SciPy lectures"}
@@ -78,9 +78,9 @@ prepLinks:
 # About Block
 aboutTitle: "Highlights"
 aboutBlock:
- - {title: "Summer School", image: "conference.jpg", text: "Summer school on machine learning and data science targeting graduate students, researchers and professionals working with huge amounts of data or unique datasets" }
- - {title: "Workshop", image: "workshop.jpg", text: "Full-day of workshops with paper presentations and interactive panel discussions" }
- - {title: "Field Work", image: "hackathon.jpg", text: "Practical deployments of IoT and data science solutions." }
+ - {title: "Summer School", image: "conference.jpg", text: "Virtual summer school on machine learning and data science targeting graduate students, researchers and professionals working with huge amounts of data or unique datasets, and challenges relevant to the African continent" }
+ - {title: "Workshop", image: "workshop.jpg", text: "Full-day of virtual workshop with participant presentations and interactive panel discussions" }
+ - {title: "Field Work", image: "hackathon.jpg", text: "Virtual practical analysis and tutorials on deployments of IoT and data science solutions." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -96,7 +96,7 @@ latestNewsTitle: "Latest news"
 locationBlockTitle: "Location"
 eventLocationName: "Conference Hall"
 eventLocationLink: ""
-eventStreetAddress: "22 Teatral'na St"
+eventStreetAddress: "AoE"
 eventAddressLocality: "Kampala"
 eventAddressLocalityRegion: "Kampala"
 eventPostalCode: "00000"
@@ -154,36 +154,32 @@ aboutUs: "The last few years have witnessed an explosion in the quantity and var
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi.'}
- - {title: "Public Transit", information: 'Matatus are available for transport. You can find your way in Google Maps.'}
- - {title: "Ride Share", information: 'More information will be available later.'}
+ - {title: "Virtual Conference Technology", information: 'Zoom details will be shared with registered participants directly.'}
+ - {title: "Q & A", information: 'TBD'}
+ - {title: "Chat and Collaboration", information: 'TBD'}
 directionDetailsWideCards:
  -
-  title: "Misc?"
+  title: "Other Details"
   subCards:
-   -
-    title: "Visa"
-    links:
-     - {link: "https://visas.immigration.go.ug", text: "How to Apply"}
    -
     title: "Registration"
     links:
-     - {permalink: "/tbd", text: "Challenge"}
-     - {permalink: "/tbd", text: "Summer School"}
-     - {permalink: "/tbd", text: "Workshop"}
+     - {permalink: "/tbd", text: "Summer school"}
+     - {permalink: "/tbd", text: "Workshop abstract submission"}
    -
-    title: "Hotels"
+    title: "Materials"
     links:
-     - {link: "https://xyz", text: "Option A"}
-     - {link: "https://xyz", text: "Option B"}
-     - {link: "https://xyz", text: "Option C"}
+     - {link: "https://github.com/datsciafrica/presentations", text: "Summer school lectures"}
+     - {link: "https://github.com/datsciafrica/presentations", text: "Datasets"}
+     - {link: "https://www.youtube.com/channel/UCkB0DCJZjJX6fdEZspidC9w/feed", text: "Past video materials"}
+     - {link: "http://www.datascienceafrica.org/covid19/", text: "COVID related information"}
 
 # Hackathon
-hackathonTitle: "Field Work"
+hackathonTitle: "Virtual Field Work"
 enableHackathon: true
 
 # Hackathon About Block
-aboutHackathonTitle: "Field Work Projects"
+aboutHackathonTitle: "Virtual Field Work Projects"
 hackathonRows:
  - {title: "Crop disease monitoring", image: "cropMonitoringFields.png", details: "The objective of this field work is to provide participants with hands-on experience in crop diseae monotoring using mobile phone and spectrometry. This will be based on a research project aimed at developing experimental tools and techniques needed for the surveillance and detection of serious viral crop diseases, which affect Uganda and the East African region. The following core areas have been investigated on and will be demonstrated during the field study. These include <ol type='circle'><li>mobile data collection in the field</li><li> diagnosis of crop disease in the field based on crop images </li><li> mobile phone applications for auto pest and disease count</li><li>Spectrometry of early disease dectection</li></ol>"} 
  - {title: "Air pollution monitoring", image: "AirQoFieldwork.png", details: "The objective of this field work is to provide participants with hands-on experience on building an air quality IoT device. The session will start with an introduction to air pollution, its effects, different types of pollutants and air quality sensing technologies. Participants will be able to prototype and deploy an IoT device that is capable of collecting air quality data and transmitting it in real-time to a cloud-based platform for analysis."}

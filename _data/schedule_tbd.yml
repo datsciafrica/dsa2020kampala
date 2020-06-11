@@ -12,8 +12,8 @@
 # Summer school and field work.
 # ----------------------
 -
-  date: "2020-06-22"
-  dateReadable: "June 22, 2020"
+  date: "2020-07-24"
+  dateReadable: "July 24, 2020"
   tracks:
     - {title: "Summer School", color: "#00843E"}
     - {title: "Field Work", color: "#000000"}
@@ -21,7 +21,7 @@
     - {
     	startTime: "08:00",
     	endTime: "08:45",
-    	sessionIds: [999, 404]
+    	sessionIds: [1000, 404]
     }
     - {
         startTime: "08:45",
@@ -49,8 +49,8 @@
     	sessionIds: [503]
     }
 -
-  date: "2020-06-23"
-  dateReadable: "June 23, 2020"
+  date: "2020-07-25"
+  dateReadable: "July 25, 2020"
   tracks:
     - {title: "Summer School", color: "#00843E"}
     - {title: "Field Work", color: "#000000"}
@@ -71,8 +71,8 @@
     	sessionIds: [307]
     }
 -
-  date: "2020-06-24"
-  dateReadable: "June 24, 2020"
+  date: "2020-07-28"
+  dateReadable: "July 28, 2020"
   tracks:
     - {title: "Summer School", color: "#00843E"}
     - {title: "Field Work", color: "#000000"}
@@ -96,8 +96,8 @@
 # --------------------------------------------------
 # Workshop
 -
-  date: "2020-06-25"
-  dateReadable: "June 25, 2020"
+  date: "2020-07-30"
+  dateReadable: "July 30, 2020"
   tracks:
     - {title: "Workshop", color: "#E31C23"}
   timeslots:
@@ -122,8 +122,8 @@
     	sessionIds: [503]
     }
 -
-  date: "2020-06-26"
-  dateReadable: "June 26, 2020"
+  date: "2020-067-31"
+  dateReadable: "July 31, 2020"
   tracks:
     - {title: "Workshop", color: "#E31C23"}
   timeslots:

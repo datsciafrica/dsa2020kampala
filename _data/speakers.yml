@@ -56,6 +56,7 @@
   thumbnailUrl: billy.jpg
   ribbon:
     - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+    - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
   social:
     - {name: "twitter", link: "https://twitter.com/jadalawa"}
 -
@@ -114,3 +115,16 @@
   thumbnailUrl: mike.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/tt"}
+-
+  id: 11
+  name: "Joyce"
+  surname: "Nabende"
+  company: "Makerere University"
+  thumbnailUrl: joyce.jpg
+  bio: ""
+  social:
+    - {name: "twitter", link: "https://twitter.com/j_nabende"}
+    - {name: "site", link: "http://site.com/"}
+  ribbon:
+    - {abbr: "GC", title: "General Chair", url: "https://datascienceafrica.org"}
+-
