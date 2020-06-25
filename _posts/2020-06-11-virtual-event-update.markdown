@@ -22,4 +22,6 @@ We are also using this platform as a call for abstracts for the workshop part of
 - COVID related applications
 - Language modeling 
 
+The deadline for submission of abstracts is July 10th, 2020
+
 For more info, contact us at [dsakampala2020@gmail.com](mailto:dsakampala2020@gmail.com)
