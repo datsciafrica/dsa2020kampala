@@ -15,6 +15,9 @@
             <li><a href="{% if linkElement.permalink != null %} {{ linkElement.permalink | prepend: site.baseurl }} {% else %} {{ linkElement.link }} {% endif %}" {% if linkElement.link != null %}target="_blank"{% endif %}>{{ linkElement.text }}</a></li>
             {% endfor %}
         </ul>
+        <p class="text-left">
+          All times are in GMT+3 (Kampala time)
+        </p>
       </div>
 
         {% for day in site.data.schedule_tbd %}

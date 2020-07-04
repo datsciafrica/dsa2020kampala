@@ -115,6 +115,6 @@ fieldset[disabled] .btn-info.active {
     padding: 10px 15px;
 }
 
-.social-links{ height: 100px; margin-top: -10px;}
+/*.social-links{ height: 100px; margin-top: -10px;}*/
 
-.icon{ margin: 10px; width: 50px; height: inherit;}
+.icon{ margin: 0px; width: 28px; height: inherit;}

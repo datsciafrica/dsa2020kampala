@@ -1,7 +1,8 @@
 -
   group: "Gold sponsors"
   elements:
-    # - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "Facebook", description: "Facebook", link: "https://www.facebook.com", imageUrl: "facebook-new.png", width: "320px"}
+    - {name: "arm", description: "arm", link: "https://www.arm.com", imageUrl: "arm-logo-blue-rgb.png"}
 -
   group: "Silver Sponsors"
   elements:
@@ -14,7 +15,7 @@
 -
   group: "Partners"
   elements:
-    - {name: "DeKut", description: "Google", link: "https://www.dkut.ac.ke", imageUrl: "dedan_kimathi.jpg"}
-    - {name: "NM-AUST", description: "Google", link: "https://www.nm-aist.ac.tz", imageUrl: "nmaist-logo.png"}
-    - {name: "AIR Lab", description: "Google", link: "http://www.air.ug", imageUrl: "AI.png"}
-    - {name: "Pulse Lab Kampala", description: "Google", link: "https://www.unglobalpulse.org/lab/kampala/", imageUrl: "plklogo.png"}
+    - {name: "DeKut", description: "Google", link: "https://www.dkut.ac.ke", imageUrl: "dedan_kimathi.jpg", width: "120px"}
+    - {name: "NM-AUST", description: "Google", link: "https://www.nm-aist.ac.tz", imageUrl: "nmaist-logo.png", width: "120px"}
+    - {name: "AIR Lab", description: "Google", link: "http://www.air.ug", imageUrl: "AI.png", width: "120px"}
+    - {name: "Pulse Lab Kampala", description: "Google", link: "https://www.unglobalpulse.org/lab/kampala/", imageUrl: "plklogo.png", width: "120px"}

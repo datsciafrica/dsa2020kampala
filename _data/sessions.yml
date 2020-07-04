@@ -1,23 +1,23 @@
 # Special sessions
 -
-  id: 307
-  title: "Tea and Coffee Break"
-  place: "Lobby"
+  id: small-break
+  title: "Short Break"
+  place: "AoE"
   service: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 503
-  title: "Lunch Break"
-  place: "Cefeteria"
+  id: large-break
+  title: "Large Break"
+  place: "AoE"
   service: true
 
 # Talks, field work, Iot, Workshop sessions
 -
   id: 001
-  title: "Foundations of Data Science"
+  title: "Machine Learning Systems"
   description: "TBD."
   subtype: workshop
-  speakers: [3, 1]
+  speakers: [neil, andrei]
   language: en
   complexity: "Intermediate"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
@@ -26,7 +26,7 @@
   title: "Computer Vision"
   description: "TBD"
   subtype: presentation
-  speakers: [3]
+  speakers: [ernest]
   language: en
   complexity: "Intermediate"
   presentation: "https://speakerdeck.com/"
@@ -35,7 +35,7 @@
   title: "Reinforcement Learning and Robotics"
   description: "TBD"
   subtype: presentation
-  speakers: [5]
+  speakers: [billy]
   language: en
   complexity: "Intermediate"
   presentation: "https://speakerdeck.com/"
@@ -44,7 +44,7 @@
   title: "IoT and Embbedded Devices"
   description: "TBD"
   subtype: workshop #keynote
-  speakers: [1, 6]
+  speakers: [engineer, ciira]
   language: en
   complexity: "Beginner"
   presentation: "https://speakerdeck.com/"
@@ -54,29 +54,145 @@
   title: "Introduction to Machine Learning"
   description: "TBD"
   subtype: presentation
-  speakers: [2]
+  speakers: [neil]
   language: en
   complexity: "Beginner"
   presentation: "https://speakerdeck.com/"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
-  id: 999
+  id: intro_python
+  title: "Tutorial Introduction to Python & Jupyter"
+  description: "General introduction to programming in Python and data science using Jupyter and Collab"
+  subtype: presentation
+  speakers: [neema, claire]
+  language: en
+  complexity: "Beginner"
+  presentation: "https://speakerdeck.com/"
+  video: "//TBD"
+
+-
+  id: embeddings
+  title: "visualizing high dimensional data with PCA and tSNE"
+  description: "Visualizing high dimensional data with PCA and tSNE"
+  subtype: presentation
+  speakers: [berens]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+-
+  id: ml_systems
+  title: "Machine Learning Systems"
+  description: "TBD"
+  subtype: presentation
+  speakers: [neil, andrei]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+-
+  id: intro_gps
+  title: "Introduction to Gaussian Processes"
+  description: "TBD"
+  subtype: presentation
+  speakers: [charles]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+
+-
+  id: deep_learning_intro
+  title: "Introduction to Deep Learning"
+  description: "TBD"
+  subtype: presentation
+  speakers: [andreas, benakera]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+
+- 
+  id: process_mining
+  title: "Introduction to Process Mining: Data Science in Action"
+  description: "TBD"
+  subtype: presentation
+  speakers: [joyce]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+- 
+  id: poultry_diagnosis
+  title: "Towards Automated Poultry Diseases Diagnostics"
+  description: "TBD"
+  subtype: keynote
+  speakers: [dina]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+- 
+  id: data_viz
+  title: "Data Visualization"
+  description: "TBD"
+  subtype: keynote
+  speakers: [elaine, morine]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+- 
+  id: classification_regression
+  title: "Classification and Regression"
+  description: "TBD"
+  subtype: tutorial
+  speakers: [mikesmith]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+- 
+  id: satellite_analysis
+  title: "Introduction to Satellite Data"
+  description: "TBD"
+  subtype: tutorial
+  speakers: [johnquinn]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+- 
+  id: nlp
+  title: "Natural Language Processing"
+  description: "TBD"
+  subtype: tutorial
+  speakers: [melese]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+
+
+
+-
+  id: tbd
   title: "TBD"
   description: "TBD"
   subtype: presentation
-  speakers: [7]
+  speakers: [dummy]
   language: en
   complexity: "Beginner"
   presentation: "https://speakerdeck.com/"
   video: "//www.youtube.com/embed/3F7dFzAb_Cc"
 
 -
-  id: 1000
+  id: welcome-remarks
   title: "Welcome and opening remarks"
   description: "Introduction to the summer school"
   subtype: presentation
-  speakers: [11,5]
+  speakers: [joyce,billy]
   language: en
   complexity: "Beginner"
   presentation: "https://speakerdeck.com/"

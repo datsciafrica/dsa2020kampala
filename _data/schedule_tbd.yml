@@ -5,8 +5,8 @@
 #  [session_id_ss, session_id_fw, ...]
 # Use:
 # - 404 --> to indicate skip/missing section in a track
-# - 307 --> coffee break
-# - 503 --> lunch break
+# - small-break --> coffee break
+# - large-break --> lunch break
 
 
 # Summer school and field work.
@@ -20,33 +20,33 @@
   timeslots:
     - {
     	startTime: "08:00",
-    	endTime: "08:45",
-    	sessionIds: [1000, 404]
+    	endTime: "08:15",
+    	sessionIds: [welcome-remarks, 404]
     }
     - {
-        startTime: "08:45",
+        startTime: "08:15",
         endTime: "09:30",
-        sessionIds: [999, 404]
+        sessionIds: [intro_python, 404]
     }
     - {
     	startTime: "09:30",
     	endTime: "09:45",
-    	sessionIds: [307]
+    	sessionIds: [small-break]
     }
     - {
     	startTime: "09:45",
     	endTime: "10:30",
-    	sessionIds: [999, 404]
+    	sessionIds: [tbd, 404]
     }
     - {
         startTime: "10:30",
         endTime: "12:15",
-        sessionIds: [404, 999]
+        sessionIds: [404, tbd]
     }
     - {
     	startTime: "12:15",
     	endTime: "13:30",
-    	sessionIds: [503]
+    	sessionIds: [large-break]
     }
 -
   date: "2020-07-25"
@@ -58,17 +58,17 @@
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [999, 404]
+    	sessionIds: [tbd, 404]
     }
     - {
         startTime: "11:00",
         endTime: "11:45",
-        sessionIds: [999, 404]
+        sessionIds: [tbd, 404]
     }
     - {
     	startTime: "12:00",
     	endTime: "11:45",
-    	sessionIds: [307]
+    	sessionIds: [small-break]
     }
 -
   date: "2020-07-28"
@@ -80,17 +80,17 @@
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [999, 404]
+    	sessionIds: [tbd, 404]
     }
     - {
         startTime: "11:00",
         endTime: "11:45",
-        sessionIds: [999, 404]
+        sessionIds: [tbd, 404]
     }
     - {
     	startTime: "12:00",
     	endTime: "11:45",
-    	sessionIds: [307]
+    	sessionIds: [small-break]
     }
 
 # --------------------------------------------------
@@ -104,22 +104,22 @@
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [999]
+    	sessionIds: [tbd]
     }
     - {
     	startTime: "11:00",
     	endTime: "11:45",
-    	sessionIds: [999]
+    	sessionIds: [tbd]
     }
     - {
         startTime: "13:00",
         endTime: "13:45",
-        sessionIds: [999]
+        sessionIds: [tbd]
     }
     - {
     	startTime: "14:00",
     	endTime: "15:00",
-    	sessionIds: [503]
+    	sessionIds: [large-break]
     }
 -
   date: "2020-067-31"
@@ -130,20 +130,20 @@
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [999]
+    	sessionIds: [tbd]
     }
     - {
     	startTime: "11:00",
     	endTime: "11:45",
-    	sessionIds: [999]
+    	sessionIds: [tbd]
     }
     - {
         startTime: "13:00",
         endTime: "13:45",
-        sessionIds: [999]
+        sessionIds: [tbd]
     }
     - {
     	startTime: "14:00",
     	endTime: "15:00",
-    	sessionIds: [503]
+    	sessionIds: [large-break]
     }
