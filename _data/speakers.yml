@@ -51,19 +51,19 @@
     - {name: "twitter", link: "https://twitter.com/ensoesie"}
   ribbon:
     - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
--
-  id: billy
-  name: "Billy"
-  surname: "Okal"
-  company: "Voyage Auto"
-  title: "Senior Research Engineer"
-  bio: ""
-  thumbnailUrl: billy.jpg
-  ribbon:
-    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
-    - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
-  social:
-    - {name: "twitter", link: "https://twitter.com/jadalawa"}
+# -
+#   id: billy
+#   name: "Billy"
+#   surname: "Okal"
+#   company: "Voyage Auto"
+#   title: "Senior Research Engineer"
+#   bio: ""
+#   thumbnailUrl: billy.jpg
+#   ribbon:
+#     - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+#     - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/jadalawa"}
 -
   id: damon
   name: "Damon"
@@ -234,6 +234,42 @@
   thumbnailUrl: martin.png
   social:
     - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
+-
+  id: pompe
+  name: "Alex"
+  surname: "Pompe"
+  title: "Research Manager"
+  company: "Facebook"
+  thumbnailUrl: pompe.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/todo"}
+-
+  id: sodomka
+  name: "Eric"
+  surname: "Sodomka"
+  title: "Research Scientist"
+  company: "Facebook"
+  thumbnailUrl: sodomka.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/todo"}
+-
+  id: jennifer
+  name: "Jennifer"
+  surname: "Miles"
+  title: "Senior Mediator and Program Manager"
+  company: "Lacuna Fund"
+  thumbnailUrl: jennifer.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/todo"}
+-
+  id: hidalgo
+  name: "Paula"
+  surname: "Hidalgo-Sanchis"
+  title: "Manager"
+  company: "UN Pulse Lab, Kampala"
+  thumbnailUrl: hidalgo.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/tt"}
 
 
 # 
