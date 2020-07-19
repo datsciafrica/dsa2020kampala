@@ -248,7 +248,15 @@
   complexity: "Intermediate"
   presentation: "tbd"
   video: "//TBD"
-
+- 
+  id: md4sg
+  title: "MD4SG"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
 
 
 
