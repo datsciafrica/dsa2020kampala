@@ -51,19 +51,19 @@
     - {name: "twitter", link: "https://twitter.com/ensoesie"}
   ribbon:
     - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
-# -
-#   id: billy
-#   name: "Billy"
-#   surname: "Okal"
-#   company: "Voyage Auto"
-#   title: "Senior Research Engineer"
-#   bio: ""
-#   thumbnailUrl: billy.jpg
-#   ribbon:
-#     - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
-#     - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/jadalawa"}
+-
+  id: billy
+  name: "Billy"
+  surname: "Okal"
+  company: "Voyage Auto"
+  title: "Senior Research Engineer"
+  bio: ""
+  thumbnailUrl: billy.jpg
+  ribbon:
+    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+    - {abbr: "PC", title: "Program Chair", url: "https://datascienceafrica.org"}
+  social:
+    - {name: "twitter", link: "https://twitter.com/jadalawa"}
 -
   id: damon
   name: "Damon"
@@ -268,6 +268,42 @@
   title: "Manager"
   company: "UN Pulse Lab, Kampala"
   thumbnailUrl: hidalgo.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/tt"}
+-
+  id: tom
+  name: "Tom"
+  surname: "Dietterich"
+  title: "Professor (Emeritus)"
+  company: "Oregon State University"
+  thumbnailUrl: tom.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/tt"}
+-
+  id: irene
+  name: "Irene"
+  surname: "Tematelewo"
+  title: "PhD Student"
+  company: "Oregon State University"
+  thumbnailUrl: irene.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/tt"}
+-
+  id: tadesse
+  name: "Tadesse"
+  surname: "Zemicheal"
+  title: "PhD Student"
+  company: "Oregon State University"
+  thumbnailUrl: tadesse.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/tt"}
+-
+  id: shalmali
+  name: "Shalmali"
+  surname: "Joshi"
+  title: "PostDoc"
+  company: "Vector Institute"
+  thumbnailUrl: shalmali.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/tt"}
 

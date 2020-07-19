@@ -4,7 +4,7 @@
   title: "Short Break"
   place: "AoE"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: "The best time to talk with speakers and attendees through the chat app"
 -
   id: large-break
   title: "Large Break"
@@ -17,12 +17,12 @@
   title: "Machine Learning Systems"
   description: "TBD."
   subtype: workshop
-  speakers: [neil, andrei]
+  speakers: [neil,andrei,meissner]
   language: en
   complexity: "Intermediate"
   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 -
-  id: 002
+  id: computer_vision
   title: "Computer Vision"
   description: "TBD"
   subtype: presentation
@@ -73,7 +73,7 @@
 
 -
   id: embeddings
-  title: "visualizing high dimensional data with PCA and tSNE"
+  title: "Visualizing high dimensional data with PCA and tSNE"
   description: "Visualizing high dimensional data with PCA and tSNE"
   subtype: presentation
   speakers: [berens]
@@ -98,7 +98,7 @@
   subtype: presentation
   speakers: [charles]
   language: en
-  complexity: "Intermediate"
+  complexity: "Advanced"
   presentation: "tbd"
   video: "//TBD"
 
@@ -112,7 +112,26 @@
   complexity: "Intermediate"
   presentation: "tbd"
   video: "//TBD"
-
+-
+  id: deep_learning_intro_2
+  title: "Introduction to Deep Learning II"
+  description: "TBD"
+  subtype: presentation
+  speakers: [andreas, benakera]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+-
+  id: deep_learning_intro_practicals
+  title: "Deep Learning Practicals"
+  description: "TBD"
+  subtype: presentation
+  speakers: [andreas, benakera]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
 - 
   id: process_mining
   title: "Introduction to Process Mining: Data Science in Action"
@@ -138,7 +157,7 @@
   title: "Data Visualization"
   description: "TBD"
   subtype: keynote
-  speakers: [elaine, morine]
+  speakers: [morine,claire,dorothy,hewitt]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -160,7 +179,7 @@
   subtype: tutorial
   speakers: [johnquinn]
   language: en
-  complexity: "Intermediate"
+  complexity: "Advanced"
   presentation: "tbd"
   video: "//TBD"
 - 
@@ -173,6 +192,64 @@
   complexity: "Intermediate"
   presentation: "tbd"
   video: "//TBD"
+- 
+  id: anomaly_detection
+  title: "Anomaly Detection"
+  description: "TBD"
+  subtype: tutorial
+  speakers: [tom,tadesse,irene]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+- 
+  id: tahmo
+  title: "Trans-African HydroMeteorological Observatory (TAHMO)"
+  description: "Overview of data science use in the project"
+  subtype: tutorial
+  speakers: [tom,tadesse,irene]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+- 
+  id: data_for_good
+  title: "Data for Good"
+  subtype: presentation
+  speakers: [pompe]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+- 
+  id: mechanism_design
+  title: "Mechanism Design"
+  subtype: presentation
+  speakers: [sodomka]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+- 
+  id: ml_health_ethics
+  title: "Ethics in ML for Health"
+  subtype: presentation
+  speakers: [shalmali]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+- 
+  id: social_media_analysis
+  title: "Social Media Data Analysis"
+  subtype: presentation
+  speakers: [morine]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+
+
 
 
 

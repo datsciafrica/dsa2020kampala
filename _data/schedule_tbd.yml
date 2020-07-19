@@ -20,34 +20,39 @@
   timeslots:
     - {
     	startTime: "08:00",
-    	endTime: "08:15",
+    	endTime: "08:30",
     	sessionIds: [welcome-remarks, 404]
     }
     - {
-        startTime: "08:15",
-        endTime: "09:30",
+        startTime: "08:30",
+        endTime: "10:00",
         sessionIds: [intro_python, 404]
     }
     - {
-    	startTime: "09:30",
-    	endTime: "09:45",
-    	sessionIds: [small-break]
+    	startTime: "10:00",
+    	endTime: "12:00",
+    	sessionIds: [classification_regression, 404]
     }
     - {
-    	startTime: "09:45",
-    	endTime: "10:30",
-    	sessionIds: [tbd, 404]
+        startTime: "12:00",
+        endTime: "12:30",
+        sessionIds: [small-break]
     }
     - {
-        startTime: "10:30",
-        endTime: "12:15",
-        sessionIds: [404, tbd]
+    	startTime: "12:30",
+    	endTime: "14:30",
+    	sessionIds: [ml_systems, 404]
     }
     - {
-    	startTime: "12:15",
-    	endTime: "13:30",
-    	sessionIds: [large-break]
+        startTime: "14:30",
+        endTime: "16:30",
+        sessionIds: [data_viz, 404]
     }
+    # - {
+    # 	startTime: "16:30",
+    # 	endTime: "17:30",
+    # 	sessionIds: [404]
+    # }
 -
   date: "2020-07-25"
   dateReadable: "July 25, 2020"
@@ -56,19 +61,39 @@
     - {title: "Field Work", color: "#000000"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [tbd, 404]
+    	startTime: "08:00",
+    	endTime: "10:00",
+    	sessionIds: [anomaly_detection, 404]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [tbd, 404]
+        startTime: "10:00",
+        endTime: "11:30",
+        sessionIds: [tahmo, 404]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
+        startTime: "11:30",
+        endTime: "12:30",
+        sessionIds: [deep_learning_intro, 404]
+    }
+    - {
+    	startTime: "12:30",
+    	endTime: "13:00",
     	sessionIds: [small-break]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [deep_learning_intro_2, 404]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "15:00",
+        sessionIds: [deep_learning_intro_practicals, 404]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "16:00",
+        sessionIds: [process_mining, 404]
     }
 -
   date: "2020-07-28"
@@ -78,19 +103,86 @@
     - {title: "Field Work", color: "#000000"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [tbd, 404]
+        startTime: "08:00",
+        endTime: "09:00",
+        sessionIds: [intro_gps, 404]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [tbd, 404]
+    	startTime: "09:00",
+    	endTime: "10:30",
+    	sessionIds: [satellite_analysis, 404]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "12:00",
+        sessionIds: [data_for_good, 404]
     }
     - {
     	startTime: "12:00",
-    	endTime: "11:45",
+    	endTime: "12:30",
     	sessionIds: [small-break]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "14:30",
+        sessionIds: [mechanism_design, 404]
+    }
+    - {
+        startTime: "14:30",
+        endTime: "16:00",
+        sessionIds: [computer_vision, 404]
+    }
+    - {
+        startTime: "16:00",
+        endTime: "17:00",
+        sessionIds: [nlp, 404]
+    }
+-
+  date: "2020-07-29"
+  dateReadable: "July 29, 2020"
+  tracks:
+    - {title: "Summer School", color: "#00843E"}
+    - {title: "Field Work", color: "#000000"}
+  timeslots:
+    - {
+        startTime: "08:00",
+        endTime: "09:00",
+        sessionIds: [ml_health_ethics, 404]
+    }
+    - {
+        startTime: "09:00",
+        endTime: "10:00",
+        sessionIds: [tbd, 404]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "11:30",
+        sessionIds: [embeddings, 404]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "12:00",
+        sessionIds: [tbd, 404]
+    }
+    - {
+        startTime: "12:00",
+        endTime: "12:30",
+        sessionIds: [small-break]
+    }
+    - {
+        startTime: "12:30",
+        endTime: "13:30",
+        sessionIds: [tbd, 404]
+    }
+    - {
+        startTime: "13:30",
+        endTime: "14:30",
+        sessionIds: [tbd, 404]
+    }
+    - {
+        startTime: "14:30",
+        endTime: "15:30",
+        sessionIds: [social_media_analysis, 404]
     }
 
 # --------------------------------------------------
