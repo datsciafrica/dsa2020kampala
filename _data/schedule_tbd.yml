@@ -182,7 +182,7 @@
     - {
         startTime: "14:30",
         endTime: "15:30",
-        sessionIds: [tbd, 404]
+        sessionIds: [data_eng, 404]
     }
     - {
         startTime: "16:00",
@@ -200,48 +200,156 @@
     - {title: "Workshop", color: "#E31C23"}
   timeslots:
     - {
+        startTime: "08:00",
+        endTime: "08:30",
+        sessionIds: [welcome-remarks]
+    }
+    - {
+        startTime: "08:30",
+        endTime: "09:00",
+        sessionIds: [keynote_dina]
+    }
+    - {
+        startTime: "09:00",
+        endTime: "10:00",
+        sessionIds: [papers]
+    }
+    - {
     	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [tbd]
+    	endTime: "10:30",
+    	sessionIds: [keynote_hold]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "11:00",
+        sessionIds: [papers]
     }
     - {
     	startTime: "11:00",
     	endTime: "11:45",
-    	sessionIds: [tbd]
+    	sessionIds: [fb_recruiting]
+    }
+    - {
+        startTime: "11:45",
+        endTime: "12:30",
+        sessionIds: [small-break]
+    }
+    - {
+        # Keynote 2
+        startTime: "12:30",
+        endTime: "13:00",
+        sessionIds: [keynote_hold]
     }
     - {
         startTime: "13:00",
-        endTime: "13:45",
+        endTime: "14:00",
+        sessionIds: [papers]
+    }
+    - {
+        # Panel
+        startTime: "14:00",
+        endTime: "14:30",
+        sessionIds: [panel_hold]
+    }
+    - {
+        startTime: "14:30",
+        endTime: "15:15",
+        sessionIds: [social_connectedness]
+    }
+    - {
+        startTime: "15:15",
+        endTime: "16:00",
+        sessionIds: [fb_public_data]
+    }
+    - {
+        # Lacuna
+        startTime: "16:00",
+        endTime: "16:30",
         sessionIds: [tbd]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [large-break]
+        # day wrap up
+        startTime: "16:30",
+        endTime: "17:00",
+        sessionIds: [day_wrap]
     }
 -
-  date: "2020-067-31"
-  dateReadable: "July 31, 2020"
+  date: "2020-08-01"
+  dateReadable: "August 1, 2020"
   tracks:
     - {title: "Workshop", color: "#E31C23"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [tbd]
-    }
-    - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [tbd]
-    }
-    - {
-        startTime: "13:00",
-        endTime: "13:45",
+        startTime: "08:00",
+        endTime: "08:30",
         sessionIds: [tbd]
     }
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [large-break]
+        startTime: "08:30",
+        endTime: "09:00",
+        sessionIds: [tbd]
+    }
+    - {
+        startTime: "09:00",
+        endTime: "10:00",
+        sessionIds: [papers]
+    }
+    - {
+        startTime: "10:00",
+        endTime: "10:30",
+        sessionIds: [keynote_hold]
+    }
+    - {
+        startTime: "10:30",
+        endTime: "11:00",
+        sessionIds: [papers]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [tbd]
+    }
+    - {
+        startTime: "11:45",
+        endTime: "12:30",
+        sessionIds: [small-break]
+    }
+    - {
+        # Keynote 2
+        startTime: "12:30",
+        endTime: "13:00",
+        sessionIds: [keynote_hold]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "14:00",
+        sessionIds: [tbd]
+    }
+    - {
+        # Panel
+        startTime: "14:00",
+        endTime: "14:30",
+        sessionIds: [panel_hold]
+    }
+    - {
+        startTime: "14:30",
+        endTime: "15:15",
+        sessionIds: [tbd]
+    }
+    - {
+        startTime: "15:15",
+        endTime: "16:00",
+        sessionIds: [tbd]
+    }
+    - {
+        # Lacuna
+        startTime: "16:00",
+        endTime: "16:30",
+        sessionIds: [tbd]
+    }
+    - {
+        # day wrap up
+        startTime: "16:30",
+        endTime: "17:00",
+        sessionIds: [day_wrap]
     }

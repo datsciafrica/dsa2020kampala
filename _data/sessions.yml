@@ -1,7 +1,7 @@
 # Special sessions
 -
   id: small-break
-  title: "Short Break"
+  title: "Break"
   place: "AoE"
   service: true
   description: "The best time to talk with speakers and attendees through the chat app"
@@ -257,9 +257,93 @@
   complexity: "Intermediate"
   presentation: "tbd"
   video: "//TBD"
+- 
+  id: data_eng
+  title: "Data Engineering in Integrity/Security"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+- 
+  id: social_connectedness
+  title: "Social Connectedness between African Countries"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+- 
+  id: fb_public_data
+  title: "Facebook Publicly Available Data"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+- 
+  id: fb_recruiting
+  title: "Recruiting/Resume Writing"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+- 
+  id: keynote_dina
+  title: "Keynote"
+  subtype: presentation
+  speakers: [dina]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+  video: "//TBD"
 
 
 
+
+
+########
+- 
+  id: keynote_hold
+  title: "Keynote"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+  video: "//TBD"
+- 
+  id: panel_hold
+  title: "Panel Discussion"
+  subtype: presentation
+  speakers: [dummy,dummy,dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+  video: "//TBD"
+- 
+  id: day_wrap
+  title: "Wrap up"
+  subtype: presentation
+  speakers: [joyce,martin,engineer]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+  video: "//TBD"
+- 
+  id: papers
+  title: "Multiple submitted talks"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+  video: "//TBD"
 
 -
   id: tbd
