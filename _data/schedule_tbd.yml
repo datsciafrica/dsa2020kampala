@@ -147,7 +147,7 @@
     - {
         startTime: "08:00",
         endTime: "09:00",
-        sessionIds: [ml_health_ethics, 404]
+        sessionIds: [social_media_analysis, 404]
     }
     - {
         startTime: "09:00",
@@ -182,8 +182,14 @@
     - {
         startTime: "14:30",
         endTime: "15:30",
-        sessionIds: [social_media_analysis, 404]
+        sessionIds: [tbd, 404]
     }
+    - {
+        startTime: "16:00",
+        endTime: "17:00",
+        sessionIds: [ml_health_ethics, 404]
+    }
+    
 
 # --------------------------------------------------
 # Workshop

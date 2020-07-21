@@ -36,21 +36,21 @@
     - {name: "twitter", link: "https://twitter.com/earnest"}
   ribbon:
     - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
--
-  id: elaine
-  name: "Elaine"
-  surname: "Nsoesie"
-  company: "Boston University"
-  title: "Assistant Professor"
-  bio: "a Computational Epidemiologist with a passion for applying novel data and methods to global health problems. 
-  She leads a team of computational social scientists, public health experts and computer scientists at Boston University's 
-  Department of Global Health. She is also a Data Science Fellow, as part of the BU Data Science Initiative at the Hariri 
-  Institute for Computing. She was born and raised in Cameroon."
-  thumbnailUrl: elaine.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/ensoesie"}
-  ribbon:
-    - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
+# -
+#   id: elaine
+#   name: "Elaine"
+#   surname: "Nsoesie"
+#   company: "Boston University"
+#   title: "Assistant Professor"
+#   bio: "a Computational Epidemiologist with a passion for applying novel data and methods to global health problems. 
+#   She leads a team of computational social scientists, public health experts and computer scientists at Boston University's 
+#   Department of Global Health. She is also a Data Science Fellow, as part of the BU Data Science Initiative at the Hariri 
+#   Institute for Computing. She was born and raised in Cameroon."
+#   thumbnailUrl: elaine.jpg
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/ensoesie"}
+#   ribbon:
+#     - {abbr: "DBM", title: "DSA Board Member", url: "https://datascienceafrica.org"}
 -
   id: billy
   name: "Billy"
@@ -165,7 +165,7 @@
   surname: "Babirye"
   title: "Lecturer"
   company: "UTAMU"
-  thumbnailUrl: Claire.jpg
+  thumbnailUrl: claire2.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/bitsclarybits"}
 -
@@ -306,7 +306,26 @@
   thumbnailUrl: shalmali.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/tt"}
+-
+  id: hewitt
+  name: "Hewitt"
+  surname: "Tusiime"
+  title: "Student"
+  company: "Makerere University"
+  thumbnailUrl: hewitt.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/tt"}
+-
+  id: dorothy
+  name: "Dorothy"
+  surname: "Kabarozi"
+  title: "Software Engineer"
+  company: "Makerere University"
+  thumbnailUrl: dorothy.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/tt"}
 
+ 
 
 # 
 # 
