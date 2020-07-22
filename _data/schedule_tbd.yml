@@ -72,28 +72,33 @@
     }
     - {
         startTime: "11:30",
-        endTime: "12:30",
+        endTime: "12:00",
         sessionIds: [deep_learning_intro, 404]
     }
     - {
-    	startTime: "12:30",
-    	endTime: "13:00",
+    	startTime: "12:00",
+    	endTime: "12:30",
     	sessionIds: [small-break]
     }
     - {
-        startTime: "13:00",
+        startTime: "12:30",
         endTime: "14:00",
-        sessionIds: [deep_learning_intro_2, 404]
+        sessionIds: [process_mining, 404]
     }
     - {
         startTime: "14:00",
-        endTime: "15:00",
-        sessionIds: [deep_learning_intro_practicals, 404]
+        endTime: "15:30",
+        sessionIds: [tbd, 404]
     }
     - {
-        startTime: "15:00",
+        startTime: "15:30",
         endTime: "16:00",
-        sessionIds: [process_mining, 404]
+        sessionIds: [deep_learning_intro_2, 404]
+    }
+     - {
+        startTime: "16:00",
+        endTime: "17:00",
+        sessionIds: [deep_learning_intro_practicals, 404]
     }
 -
   date: "2020-07-28"
@@ -156,7 +161,7 @@
     }
     - {
         startTime: "10:00",
-        endTime: "11:30",
+        endTime: "11:00",
         sessionIds: [embeddings, 404]
     }
     - {
