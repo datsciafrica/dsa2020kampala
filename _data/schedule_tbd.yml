@@ -95,7 +95,7 @@
         endTime: "16:00",
         sessionIds: [deep_learning_intro_2, 404]
     }
-     - {
+    - {
         startTime: "16:00",
         endTime: "17:00",
         sessionIds: [deep_learning_intro_practicals, 404]
