@@ -16,22 +16,22 @@
   dateReadable: "July 24, 2020"
   tracks:
     - {title: "Summer School", color: "#00843E"}
-    - {title: "Field Work", color: "#000000"}
+    # - {title: "Field Work", color: "#000000"}
   timeslots:
     - {
     	startTime: "08:00",
     	endTime: "08:30",
-    	sessionIds: [welcome-remarks, 404]
+    	sessionIds: [welcome-remarks]
     }
     - {
         startTime: "08:30",
         endTime: "10:00",
-        sessionIds: [intro_python, 404]
+        sessionIds: [intro_python]
     }
     - {
     	startTime: "10:00",
     	endTime: "12:00",
-    	sessionIds: [classification_regression, 404]
+    	sessionIds: [classification_regression]
     }
     - {
         startTime: "12:00",
@@ -41,12 +41,12 @@
     - {
     	startTime: "12:30",
     	endTime: "14:30",
-    	sessionIds: [ml_systems, 404]
+    	sessionIds: [ml_systems]
     }
     - {
         startTime: "14:30",
         endTime: "16:30",
-        sessionIds: [data_viz, 404]
+        sessionIds: [data_viz]
     }
     # - {
     # 	startTime: "16:30",
@@ -58,22 +58,22 @@
   dateReadable: "July 25, 2020"
   tracks:
     - {title: "Summer School", color: "#00843E"}
-    - {title: "Field Work", color: "#000000"}
+    # - {title: "Field Work", color: "#000000"}
   timeslots:
     - {
     	startTime: "08:00",
     	endTime: "10:00",
-    	sessionIds: [anomaly_detection, 404]
+    	sessionIds: [anomaly_detection]
     }
     - {
         startTime: "10:00",
         endTime: "11:30",
-        sessionIds: [tahmo, 404]
+        sessionIds: [tahmo]
     }
     - {
         startTime: "11:30",
         endTime: "12:00",
-        sessionIds: [deep_learning_intro, 404]
+        sessionIds: [deep_learning_intro]
     }
     - {
     	startTime: "12:00",
@@ -83,44 +83,44 @@
     - {
         startTime: "12:30",
         endTime: "14:00",
-        sessionIds: [process_mining, 404]
+        sessionIds: [process_mining]
     }
-    - {
-        startTime: "14:00",
-        endTime: "15:30",
-        sessionIds: [tbd, 404]
-    }
+    # - {
+    #     startTime: "14:00",
+    #     endTime: "15:30",
+    #     sessionIds: [blank]
+    # }
     - {
         startTime: "15:30",
         endTime: "16:00",
-        sessionIds: [deep_learning_intro_2, 404]
+        sessionIds: [deep_learning_intro_2]
     }
     - {
         startTime: "16:00",
         endTime: "17:00",
-        sessionIds: [deep_learning_intro_practicals, 404]
+        sessionIds: [deep_learning_intro_practicals]
     }
 -
   date: "2020-07-28"
   dateReadable: "July 28, 2020"
   tracks:
     - {title: "Summer School", color: "#00843E"}
-    - {title: "Field Work", color: "#000000"}
+    # - {title: "Field Work", color: "#000000"}
   timeslots:
     - {
         startTime: "08:00",
         endTime: "09:00",
-        sessionIds: [intro_gps, 404]
+        sessionIds: [intro_gps]
     }
     - {
     	startTime: "09:00",
     	endTime: "10:30",
-    	sessionIds: [satellite_analysis, 404]
+    	sessionIds: [satellite_analysis]
     }
     - {
         startTime: "10:30",
         endTime: "12:00",
-        sessionIds: [data_for_good, 404]
+        sessionIds: [data_for_good]
     }
     - {
     	startTime: "12:00",
@@ -130,44 +130,44 @@
     - {
         startTime: "12:30",
         endTime: "14:30",
-        sessionIds: [mechanism_design, 404]
+        sessionIds: [mechanism_design]
     }
     - {
         startTime: "14:30",
         endTime: "16:00",
-        sessionIds: [computer_vision, 404]
+        sessionIds: [computer_vision]
     }
     - {
         startTime: "16:00",
         endTime: "17:00",
-        sessionIds: [nlp, 404]
+        sessionIds: [nlp]
     }
 -
   date: "2020-07-29"
   dateReadable: "July 29, 2020"
   tracks:
     - {title: "Summer School", color: "#00843E"}
-    - {title: "Field Work", color: "#000000"}
+    # - {title: "Field Work", color: "#000000"}
   timeslots:
     - {
         startTime: "08:00",
         endTime: "09:00",
-        sessionIds: [social_media_analysis, 404]
+        sessionIds: [social_media_analysis]
     }
     - {
         startTime: "09:00",
         endTime: "10:00",
-        sessionIds: [md4sg, 404]
+        sessionIds: [md4sg]
     }
     - {
         startTime: "10:00",
         endTime: "11:00",
-        sessionIds: [md4sg, 404]
+        sessionIds: [md4sg]
     }
     - {
         startTime: "11:00",
         endTime: "12:00",
-        sessionIds: [embeddings, 404]
+        sessionIds: [embeddings]
     }
     - {
         startTime: "12:00",
@@ -177,30 +177,36 @@
     - {
         startTime: "12:30",
         endTime: "13:30",
-        sessionIds: [tbd, 404]
+        sessionIds: [blank]
     }
     - {
         startTime: "13:30",
         endTime: "14:30",
-        sessionIds: [tbd, 404]
+        sessionIds: [blank]
     }
     - {
         startTime: "14:30",
         endTime: "15:30",
-        sessionIds: [data_eng, 404]
+        sessionIds: [data_eng]
     }
     - {
         startTime: "16:00",
         endTime: "17:00",
-        sessionIds: [ml_health_ethics, 404]
+        sessionIds: [ml_health_ethics]
     }
+    - {
+        startTime: "17:00",
+        endTime: "17:15",
+        sessionIds: [ss_conclusion]
+    }
+
     
 
 # --------------------------------------------------
 # Workshop
 -
   date: "2020-07-30"
-  dateReadable: "July 30, 2020"
+  dateReadable: "July 30, 2020 - Workshop Day I"
   tracks:
     - {title: "Workshop", color: "#E31C23"}
   timeslots:
@@ -280,14 +286,14 @@
     }
 -
   date: "2020-08-01"
-  dateReadable: "August 1, 2020"
+  dateReadable: "August 1, 2020 - Workshop Day II"
   tracks:
     - {title: "Workshop", color: "#E31C23"}
   timeslots:
     - {
         startTime: "08:00",
         endTime: "08:30",
-        sessionIds: [tbd]
+        sessionIds: [keynote_elaine]
     }
     - {
         startTime: "08:30",
@@ -347,7 +353,6 @@
         sessionIds: [tbd]
     }
     - {
-        # Lacuna
         startTime: "16:00",
         endTime: "16:30",
         sessionIds: [tbd]

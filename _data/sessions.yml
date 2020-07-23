@@ -62,7 +62,7 @@
 
 -
   id: intro_python
-  title: "Tutorial Introduction to Python & Jupyter"
+  title: "Introduction to Python & Jupyter Environment"
   description: "General introduction to programming in Python and data science using Jupyter and Collab"
   subtype: presentation
   speakers: [neema, claire]
@@ -83,7 +83,7 @@
   video: "//TBD"
 -
   id: ml_systems
-  title: "Machine Learning Systems"
+  title: "Machine Learning Systems, Streaming Data"
   description: "TBD"
   subtype: presentation
   speakers: [neil, andrei]
@@ -154,7 +154,7 @@
   video: "//TBD"
 - 
   id: data_viz
-  title: "Data Visualization"
+  title: "Data Visualization : Communicating Insights and Results Effectively"
   description: "TBD"
   subtype: keynote
   speakers: [claire,dorothy,hewitt]
@@ -174,7 +174,7 @@
   video: "//TBD"
 - 
   id: satellite_analysis
-  title: "Introduction to Satellite Data"
+  title: "Introduction to Spatial Data Analysis"
   description: "TBD"
   subtype: tutorial
   speakers: [johnquinn]
@@ -295,16 +295,31 @@
   video: "//TBD"
 - 
   id: keynote_dina
-  title: "Keynote"
+  title: "Keynote: Towards Automated Poultry Diseases Diagnostics"
   subtype: presentation
   speakers: [dina]
   language: en
   complexity: "Beginner"
   presentation: "tbd"
   video: "//TBD"
-
-
-
+- 
+  id: keynote_elaine
+  title: "Keynote"
+  subtype: presentation
+  speakers: [elaine]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+  video: "//TBD"
+- 
+  id: ss_conclusion
+  title: "End of part I: Summer School"
+  subtype: presentation
+  speakers: [joyce,billy,martin,engineer,morine]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+  video: "//TBD"
 
 
 ########
@@ -354,7 +369,13 @@
   language: en
   complexity: "Beginner"
   presentation: "https://speakerdeck.com/"
-  video: "//www.youtube.com/embed/3F7dFzAb_Cc"
+
+-
+  id: blank
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: []
 
 -
   id: welcome-remarks
