@@ -162,12 +162,12 @@
     - {
         startTime: "10:00",
         endTime: "11:00",
-        sessionIds: [embeddings, 404]
+        sessionIds: [md4sg, 404]
     }
     - {
         startTime: "11:00",
         endTime: "12:00",
-        sessionIds: [md4sg, 404]
+        sessionIds: [embeddings, 404]
     }
     - {
         startTime: "12:00",
