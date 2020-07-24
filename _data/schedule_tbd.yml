@@ -265,7 +265,7 @@
     - {
         startTime: "14:30",
         endTime: "15:15",
-        sessionIds: [social_connectedness]
+        sessionIds: [blank]
     }
     - {
         startTime: "15:15",
@@ -276,7 +276,7 @@
         # Lacuna
         startTime: "16:00",
         endTime: "16:30",
-        sessionIds: [tbd]
+        sessionIds: [social_connectedness]
     }
     - {
         # day wrap up
