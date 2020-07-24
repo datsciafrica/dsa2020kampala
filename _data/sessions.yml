@@ -200,7 +200,7 @@
   speakers: [tom,tadesse,irene]
   language: en
   complexity: "Intermediate"
-  presentation: "tbd"
+  presentation: "https://github.com/datsciafrica/presentations/blob/master/kampala2020/dietterich-anomaly-detection-v3.pdf"
   video: "//TBD"
 - 
   id: tahmo
@@ -210,7 +210,7 @@
   speakers: [tom,tadesse,irene]
   language: en
   complexity: "Intermediate"
-  presentation: "tbd"
+  presentation: "https://github.com/datsciafrica/presentations/blob/master/kampala2020/dsa-tahmo-v4.pdf"
   video: "//TBD"
 - 
   id: data_for_good
