@@ -253,6 +253,15 @@
   social:
     - {name: "twitter", link: "https://twitter.com/todo"}
 -
+  id: meissner
+  name: "Eric"
+  surname: "Meissner"
+  title: ""
+  company: "University of Cambridge"
+  thumbnailUrl: dummy.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/todo"}
+-
   id: jennifer
   name: "Jennifer"
   surname: "Miles"
