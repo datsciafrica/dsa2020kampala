@@ -177,7 +177,7 @@
     - {
         startTime: "12:30",
         endTime: "13:30",
-        sessionIds: [blank]
+        sessionIds: [embeddings_labs]
     }
     - {
         startTime: "13:30",

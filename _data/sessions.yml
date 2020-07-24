@@ -82,6 +82,16 @@
   presentation: "tbd"
   video: "//TBD"
 -
+  id: embeddings_labs
+  title: "Practical labs for Visualizing high dimensional data with PCA and tSNE"
+  description: "Lab: Visualizing high dimensional data with PCA and tSNE"
+  subtype: presentation
+  speakers: [berens]
+  language: en
+  complexity: "Intermediate"
+  presentation: "tbd"
+  video: "//TBD"
+-
   id: ml_systems
   title: "Machine Learning Systems, Streaming Data"
   description: "TBD"
@@ -89,7 +99,7 @@
   speakers: [meissner,andrei,neil]
   language: en
   complexity: "Intermediate"
-  presentation: "tbd"
+  presentation: "https://colab.research.google.com/github/lawrennd/talks/blob/gh-pages/_notebooks/2020-07-24-ml-systems.ipynb"
   video: "//TBD"
 -
   id: intro_gps
