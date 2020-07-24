@@ -256,9 +256,9 @@
   id: meissner
   name: "Eric"
   surname: "Meissner"
-  title: ""
+  title: "PhD Student"
   company: "University of Cambridge"
-  thumbnailUrl: dummy.jpg
+  thumbnailUrl: meissner.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/todo"}
 -
