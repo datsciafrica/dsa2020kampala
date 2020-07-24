@@ -333,7 +333,15 @@
   thumbnailUrl: dorothy.jpg
   social:
     - {name: "twitter", link: "https://twitter.com/tt"}
-
+-
+  id: bailey
+  name: "Mike"
+  surname: "Bailey"
+  title: "Research Science Manager"
+  company: "Facebook"
+  thumbnailUrl: bailey.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/tt"}
  
 
 # 
