@@ -38,7 +38,6 @@
   speakers: [billy]
   language: en
   complexity: "Intermediate"
-  presentation: "https://speakerdeck.com/"
 -
   id: 004
   title: "IoT and Embbedded Devices"
@@ -47,18 +46,18 @@
   speakers: [engineer, ciira]
   language: en
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
--
-  id: 005
-  title: "Introduction to Machine Learning"
-  description: "TBD"
-  subtype: presentation
-  speakers: [neil]
-  language: en
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  # presentation: "https://speakerdeck.com/"
+  # video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+# -
+#   id: 005
+#   title: "Introduction to Machine Learning"
+#   description: "TBD"
+#   subtype: presentation
+#   speakers: [neil]
+#   language: en
+#   complexity: "Beginner"
+#   presentation: "https://speakerdeck.com/"
+#   video: "//www.youtube.com/embed/v3SCiUqI1yQ"
 
 -
   id: intro_python
@@ -68,9 +67,7 @@
   speakers: [neema, claire]
   language: en
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/"
-  video: "//TBD"
-
+  presentation: "https://github.com/datsciafrica/presentations/blob/master/kampala2020/neema_intro_python.pdf"
 -
   id: embeddings
   title: "Visualizing high dimensional data with PCA and tSNE"
@@ -80,7 +77,6 @@
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-  video: "//TBD"
 -
   id: embeddings_labs
   title: "Practical labs for Visualizing high dimensional data with PCA and tSNE"
@@ -90,7 +86,6 @@
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-  video: "//TBD"
 -
   id: ml_systems
   title: "Machine Learning Systems, Streaming Data"
@@ -100,7 +95,6 @@
   language: en
   complexity: "Intermediate"
   presentation: "https://colab.research.google.com/github/lawrennd/talks/blob/gh-pages/_notebooks/2020-07-24-ml-systems.ipynb"
-  video: "//TBD"
 -
   id: intro_gps
   title: "Introduction to Gaussian Processes"
@@ -110,28 +104,26 @@
   language: en
   complexity: "Advanced"
   presentation: "tbd"
-  video: "//TBD"
 
 -
   id: deep_learning_intro
   title: "Introduction to Deep Learning"
-  description: "TBD"
+  description: "Practical consideration introductory deep learning"
   subtype: presentation
-  speakers: [andreas, benakera]
+  speakers: [andreas]
   language: en
   complexity: "Intermediate"
-  presentation: "tbd"
-  video: "//TBD"
+  presentation: "https://docs.google.com/presentation/d/1z-kJXndhi-nf7X9nmzc368pO6Zh3XlWOoXkQ_Y6XRzY/edit#slide=id.g35f391192_00"
+  video: "//www.youtube.com/embed/tBTzVR6hO08"
 -
   id: deep_learning_intro_2
   title: "Introduction to Deep Learning II"
   description: "TBD"
   subtype: presentation
-  speakers: [andreas, benakera]
+  speakers: [benakera]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-  video: "//TBD"
 -
   id: deep_learning_intro_practicals
   title: "Deep Learning Practicals"
@@ -141,7 +133,6 @@
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: process_mining
   title: "Introduction to Process Mining: Data Science in Action"
@@ -151,7 +142,6 @@
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: poultry_diagnosis
   title: "Towards Automated Poultry Diseases Diagnostics"
@@ -161,7 +151,6 @@
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: data_viz
   title: "Data Visualization : Communicating Insights and Results Effectively"
@@ -171,7 +160,6 @@
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: classification_regression
   title: "Classification and Regression"
@@ -181,7 +169,6 @@
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: satellite_analysis
   title: "Introduction to Spatial Data Analysis"
@@ -191,7 +178,6 @@
   language: en
   complexity: "Advanced"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: nlp
   title: "Natural Language Processing"
@@ -201,7 +187,6 @@
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: anomaly_detection
   title: "Anomaly Detection"
@@ -211,7 +196,6 @@
   language: en
   complexity: "Intermediate"
   presentation: "https://github.com/datsciafrica/presentations/blob/master/kampala2020/dietterich-anomaly-detection-v3.pdf"
-  video: "//TBD"
 - 
   id: tahmo
   title: "Trans-African HydroMeteorological Observatory (TAHMO)"
@@ -221,7 +205,6 @@
   language: en
   complexity: "Intermediate"
   presentation: "https://github.com/datsciafrica/presentations/blob/master/kampala2020/dsa-tahmo-v4.pdf"
-  video: "//TBD"
 - 
   id: data_for_good
   title: "Data for Good"
@@ -230,16 +213,14 @@
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: mechanism_design
-  title: "Mechanism Design"
+  title: "Global Challenges in Economics and Computaton"
   subtype: presentation
   speakers: [sodomka]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: ml_health_ethics
   title: "Ethics in ML for Health"
@@ -248,7 +229,6 @@
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: social_media_analysis
   title: "Social Media Data Analysis"
@@ -257,25 +237,39 @@
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: md4sg
-  title: "MD4SG"
+  title: "MD4SG: Mechanism Design for Social Good"
   subtype: presentation
-  speakers: [dummy]
+  description: "Mechanism Design for Social Good (MD4SG) is a multi-institutional initiative using techniques from algorithms, 
+  optimization, and mechanism design, along with insights from other disciplines, to improve access to opportunity 
+  for historically underserved and disadvantaged communities. MD4SG was founded by Rediet Abebe and Kira Goldner 
+  in the fall of 2016 as a small reading group. Since its inception, the group — co-organized by Rediet Abebe, 
+  Irene Lo, Ana-Andreea Stoica, and Francisco Marmolejo — has also grown into a network of over 1000 participants 
+  from 100 institutions and 30 countries who are united by their interest to use an interdisciplinary approach 
+  to tackle problems of societal importance. The online working groups have served as a backbone of MD4SG over the years. 
+  In this mini-tutorial, we showcase work focused on and relevant to the African continent, as presented by the leaders of 
+  the different working groups. 
+
+  Topics:
+  Climate change (Lily Xu & Wanyi Li),
+  Inequality (Samuel Taggart),
+  Developing Nations (Francisco Marmolejo-Cossio),
+  Data Economies (Abeba Birhane & George Obaido)
+  "
+  speakers: [rediet,wanyili,lilyxu,samuel,francisco,ana_andreea,irenelo]
   language: en
   complexity: "Intermediate"
-  presentation: "tbd"
-  video: "//TBD"
+  # presentation: "tbd"
+
 - 
   id: data_eng
   title: "Data Engineering in Integrity/Security"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [nasia]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: social_connectedness
   title: "Social Connectedness between African Countries"
@@ -284,7 +278,6 @@
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: fb_public_data
   title: "Facebook Publicly Available Data"
@@ -293,16 +286,14 @@
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: fb_recruiting
   title: "Recruiting/Resume Writing"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [kuldip]
   language: en
-  complexity: "Intermediate"
+  complexity: "Beginner"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: keynote_dina
   title: "Keynote: Towards Automated Poultry Diseases Diagnostics"
@@ -311,7 +302,6 @@
   language: en
   complexity: "Beginner"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: keynote_elaine
   title: "Keynote: Monitoring Behavioral Risk Factors with Internet Search Data"
@@ -320,7 +310,6 @@
   language: en
   complexity: "Beginner"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: ss_conclusion
   title: "End of part I: Summer School"
@@ -329,7 +318,49 @@
   language: en
   complexity: "Beginner"
   presentation: "tbd"
-  video: "//TBD"
+- 
+  id: lacuna_fund_talk
+  title: "Lacuna Fund"
+  subtype: presentation
+  speakers: [jennifer]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+- 
+  id: megain_talk
+  title: "Keynote: Optimal Decision Making in Healthcare"
+  subtype: presentation
+  speakers: [megan_allen]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+- 
+  id: jared_talk
+  title: "Deploying species identification models on camera traps and web application for automatic monitoring of animal species in conservation area"
+  subtype: presentation
+  speakers: [jared]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+- 
+  id: jason_talk
+  title: "Leveraging IoT and Machine Learning for Improved Monitoring of Water Resources"
+  subtype: presentation
+  speakers: [jason]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+- 
+  id: sanchis_talk
+  title: "Keynote: UN Pulse Lab Kampala"
+  subtype: presentation
+  speakers: [hidalgo]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+
+
+
 
 
 ########
@@ -341,7 +372,6 @@
   language: en
   complexity: "Beginner"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: panel_hold
   title: "Panel Discussion"
@@ -350,7 +380,6 @@
   language: en
   complexity: "Beginner"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: day_wrap
   title: "Wrap up"
@@ -359,7 +388,6 @@
   language: en
   complexity: "Beginner"
   presentation: "tbd"
-  video: "//TBD"
 - 
   id: papers
   title: "Multiple submitted talks"
@@ -368,7 +396,6 @@
   language: en
   complexity: "Beginner"
   presentation: "tbd"
-  video: "//TBD"
 
 -
   id: tbd

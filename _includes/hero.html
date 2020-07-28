@@ -8,16 +8,18 @@
             <h1>{{ site.heroTitle }}</h1>
             <h4>{{ site.eventDate }}</h4>
             <br/>
-            {% for button in site.heroButtons %}
+           <!--  {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
-            {% endfor %}
+            {% endfor %} -->
 
 <!--             <p><br/>Applications close on 31st April, 2020</p> -->
           </div>
 
         </div>
-        <br>
-        <div style='margin-top: 10px'><p style="font-size:18px font-weight:normal;"> Registration opens on {{site.startRegistration}} &amp; close on {{site.endRegistration}} </p></div>
+        <!-- <br> -->
+        <!-- <div style='margin-top: 10px'><p style="font-size:18px font-weight:normal;"> Registration opens on {{site.startRegistration}} &amp; close on {{site.endRegistration}} </p>
+        </div> -->
+
         <div>
             <br>
             <ul class="social-links">

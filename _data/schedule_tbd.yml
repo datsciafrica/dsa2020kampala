@@ -156,14 +156,14 @@
     }
     - {
         startTime: "09:00",
-        endTime: "10:00",
-        sessionIds: [md4sg]
-    }
-    - {
-        startTime: "10:00",
         endTime: "11:00",
         sessionIds: [md4sg]
     }
+    # - {
+    #     startTime: "10:00",
+    #     endTime: "11:00",
+    #     sessionIds: [md4sg]
+    # }
     - {
         startTime: "11:00",
         endTime: "12:00",
@@ -249,7 +249,7 @@
         # Keynote 2
         startTime: "12:30",
         endTime: "13:00",
-        sessionIds: [keynote_hold]
+        sessionIds: [sanchis_talk]
     }
     - {
         startTime: "13:00",
@@ -264,6 +264,11 @@
     }
     - {
         startTime: "14:30",
+        endTime: "15:50",
+        sessionIds: [jared_talk]
+    }
+    - {
+        startTime: "14:50",
         endTime: "15:15",
         sessionIds: [blank]
     }
@@ -279,9 +284,14 @@
         sessionIds: [social_connectedness]
     }
     - {
-        # day wrap up
         startTime: "16:30",
         endTime: "17:00",
+        sessionIds: [lacuna_fund_talk]
+    }
+    - {
+        # day wrap up
+        startTime: "17:00",
+        endTime: "17:15",
         sessionIds: [day_wrap]
     }
 -
@@ -308,7 +318,7 @@
     - {
         startTime: "10:00",
         endTime: "10:30",
-        sessionIds: [keynote_hold]
+        sessionIds: [megain_talk]
     }
     - {
         startTime: "10:30",
@@ -317,6 +327,11 @@
     }
     - {
         startTime: "11:00",
+        endTime: "11:20",
+        sessionIds: [jason_talk]
+    }
+    - {
+        startTime: "11:20",
         endTime: "11:45",
         sessionIds: [tbd]
     }

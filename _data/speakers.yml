@@ -106,8 +106,6 @@
   title: "Research Scientist"
   bio: ""
   thumbnailUrl: johnquinn.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/tt"}
   ribbon:
     - {abbr: "DBA", title: "DSA Board Advisor", url: "https://datascienceafrica.org"}
 -
@@ -118,8 +116,6 @@
   title: "Post Doc"
   bio: ""
   thumbnailUrl: mike.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/tt"}
 -
   id: joyce
   name: "Joyce"
@@ -205,7 +201,6 @@
   company: "University of Cambridge"
   thumbnailUrl: andrei.jpg
   social:
-    - {name: "twitter", link: "https://twitter.com/tt"}
     - {name: "site", link: "https://www.linkedin.com/in/andreipaleyes?originalSubdomain=uk"}
 -
   id: charles
@@ -241,8 +236,6 @@
   title: "Research Manager"
   company: "Facebook"
   thumbnailUrl: pompe.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/todo"}
 -
   id: sodomka
   name: "Eric"
@@ -250,8 +243,20 @@
   title: "Research Scientist"
   company: "Facebook"
   thumbnailUrl: sodomka.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/todo"}
+-
+  id: nasia
+  name: "Nasia"
+  surname: "Ntalla"
+  title: ""
+  company: "Facebook"
+  thumbnailUrl: person.jpg
+-
+  id: kuldip
+  name: "Kuldip"
+  surname: "Bhathal"
+  title: ""
+  company: "Facebook"
+  thumbnailUrl: person.jpg
 -
   id: meissner
   name: "Eric"
@@ -259,8 +264,6 @@
   title: "PhD Student"
   company: "University of Cambridge"
   thumbnailUrl: meissner.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/todo"}
 -
   id: jennifer
   name: "Jennifer"
@@ -268,8 +271,6 @@
   title: "Senior Mediator and Program Manager"
   company: "Lacuna Fund"
   thumbnailUrl: jennifer.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/todo"}
 -
   id: hidalgo
   name: "Paula"
@@ -277,8 +278,6 @@
   title: "Manager"
   company: "UN Pulse Lab, Kampala"
   thumbnailUrl: hidalgo.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/tt"}
 -
   id: tom
   name: "Tom"
@@ -286,8 +285,6 @@
   title: "Professor (Emeritus)"
   company: "Oregon State University"
   thumbnailUrl: tom.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/tt"}
 -
   id: irene
   name: "Irene"
@@ -295,8 +292,6 @@
   title: "PhD Student"
   company: "Oregon State University"
   thumbnailUrl: irene.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/tt"}
 -
   id: tadesse
   name: "Tadesse"
@@ -304,8 +299,6 @@
   title: "PhD Student"
   company: "Oregon State University"
   thumbnailUrl: tadesse.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/tt"}
 -
   id: shalmali
   name: "Shalmali"
@@ -313,8 +306,6 @@
   title: "PostDoc"
   company: "Vector Institute"
   thumbnailUrl: shalmali.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/tt"}
 -
   id: hewitt
   name: "Hewitt"
@@ -322,8 +313,6 @@
   title: "Student"
   company: "Makerere University"
   thumbnailUrl: hewitt.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/tt"}
 -
   id: dorothy
   name: "Dorothy"
@@ -331,8 +320,6 @@
   title: "Software Engineer"
   company: "Makerere University"
   thumbnailUrl: dorothy.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/tt"}
 -
   id: bailey
   name: "Mike"
@@ -340,9 +327,76 @@
   title: "Research Science Manager"
   company: "Facebook"
   thumbnailUrl: bailey.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/tt"}
- 
+-
+  id: megan_allen
+  name: "Megan"
+  surname: "Allen"
+  title: ""
+  company: ""
+  thumbnailUrl: person.jpg
+-
+  id: rediet
+  name: "Rediet"
+  surname: "Abebe"
+  title: "Junior Fellow (Havard Society of Fellows)"
+  company: "Havard University"
+  thumbnailUrl: Rediet.jpg
+-
+  id: irenelo
+  name: "Irene"
+  surname: "Lo"
+  title: "Assistant Professor"
+  company: "Stanford University"
+  thumbnailUrl: irenelo.jpg
+-
+  id: ana_andreea
+  name: "Ana-Andreea"
+  surname: "Stoica"
+  title: "PhD Candidate"
+  company: "Columbia University"
+  thumbnailUrl: ana.jpg
+-
+  id: francisco
+  name: "Francisco"
+  surname: "Marmolejo"
+  title: "PhD Candidate"
+  company: "University of Oxford"
+  thumbnailUrl: francisco.png
+-
+  id: lilyxu
+  name: "Lily"
+  surname: "Xu"
+  title: "PhD Candidate"
+  company: "Havard University"
+  thumbnailUrl: lilyxu.jpg
+-
+  id: wanyili
+  name: "Wanyi"
+  surname: "Li"
+  title: "PhD Candidate"
+  company: "Stanford University"
+  thumbnailUrl: wanyi.png
+-
+  id: samuel
+  name: "Samuel"
+  surname: "Taggart"
+  title: "Assistant Professor"
+  company: "Oberlin College"
+  thumbnailUrl: sam.jpg
+-
+  id: jared
+  name: "Jared"
+  surname: "Makario"
+  title: "Student"
+  company: "Dedan Kimathi University of Science and Technology"
+  thumbnailUrl: jared.jpg
+-
+  id: jason
+  name: "Jason"
+  surname: "Kabi"
+  title: "Student"
+  company: "Dedan Kimathi University of Science and Technology"
+  thumbnailUrl: JasonKabi.jpg
 
 # 
 # 
@@ -361,13 +415,13 @@
 # DO NOT REMOTE THIS DUMMY SPEAKER. USED AS FILLER
 #
 
--
-  id: dummy
-  name: "First"
-  surname: "Last"
-  company: "Affiliation"
-  title: "Title"
-  bio: ""
-  thumbnailUrl: person.jpg
-  social:
-    - {name: "twitter", link: "https://twitter.com/tt"}
+# -
+#   id: dummy
+#   name: "First"
+#   surname: "Last"
+#   company: "Affiliation"
+#   title: "Title"
+#   bio: ""
+#   thumbnailUrl: person.jpg
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/tt"}
