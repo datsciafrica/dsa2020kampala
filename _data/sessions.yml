@@ -1,7 +1,7 @@
 # Special sessions
 -
   id: small-break
-  title: "Break"
+  title: " [[[ Break ]]] "
   place: "AoE"
   service: true
   description: "The best time to talk with speakers and attendees through the chat app"
@@ -215,7 +215,7 @@
   presentation: "tbd"
 - 
   id: mechanism_design
-  title: "Global Challenges in Economics and Computaton"
+  title: "Global Challenges in Economics and Computation"
   subtype: presentation
   speakers: [sodomka]
   language: en
@@ -358,6 +358,99 @@
   language: en
   complexity: "Beginner"
   presentation: "tbd"
+-
+  id: dsa_grant
+  title: "DSA Grant Announcement"
+  description: "Special announcement"
+  subtype: presentation
+  speakers: [ciira]
+  language: en
+  complexity: "Beginner"
+
+
+
+
+#-------------------------------------------------
+- 
+  id: paper1
+  title: "Contributed Paper 1"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+- 
+  id: paper2
+  title: "Contributed Paper 2"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+- 
+  id: paper3
+  title: "Contributed Paper 3"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+- 
+  id: paper4
+  title: "Contributed Paper 4"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+- 
+  id: paper5
+  title: "Contributed Paper 5"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+- 
+  id: paper6
+  title: "Contributed Paper 6"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+- 
+  id: paper7
+  title: "Contributed Paper 7"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+- 
+  id: paper8
+  title: "Contributed Paper 8"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+- 
+  id: paper9
+  title: "Contributed Paper 9"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+- 
+  id: paper10
+  title: "Contributed Paper 10"
+  subtype: presentation
+  speakers: [dummy]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
 
 
 
@@ -405,7 +498,6 @@
   speakers: [dummy]
   language: en
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/"
 
 -
   id: blank
@@ -422,4 +514,3 @@
   speakers: [joyce,billy]
   language: en
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/"

@@ -222,8 +222,18 @@
     }
     - {
         startTime: "09:00",
+        endTime: "09:20",
+        sessionIds: [paper1]
+    }
+    - {
+        startTime: "09:20",
+        endTime: "09:40",
+        sessionIds: [paper2]
+    }
+    - {
+        startTime: "09:40",
         endTime: "10:00",
-        sessionIds: [papers]
+        sessionIds: [paper3]
     }
     - {
     	startTime: "10:00",
@@ -232,11 +242,16 @@
     }
     - {
         startTime: "10:30",
-        endTime: "11:00",
-        sessionIds: [papers]
+        endTime: "10:50",
+        sessionIds: [blank]
     }
     - {
-    	startTime: "11:00",
+        startTime: "10:50",
+        endTime: "11:10",
+        sessionIds: [blank]
+    }
+    - {
+    	startTime: "11:10",
     	endTime: "11:45",
     	sessionIds: [fb_recruiting]
     }
@@ -253,8 +268,18 @@
     }
     - {
         startTime: "13:00",
+        endTime: "13:20",
+        sessionIds: [paper6]
+    }
+    - {
+        startTime: "13:20",
+        endTime: "13:40",
+        sessionIds: [paper7]
+    }
+    - {
+        startTime: "13:40",
         endTime: "14:00",
-        sessionIds: [papers]
+        sessionIds: [paper8]
     }
     - {
         # Panel
@@ -264,7 +289,7 @@
     }
     - {
         startTime: "14:30",
-        endTime: "15:50",
+        endTime: "14:50",
         sessionIds: [jared_talk]
     }
     - {
@@ -307,28 +332,43 @@
     }
     - {
         startTime: "08:30",
-        endTime: "09:00",
-        sessionIds: [tbd]
+        endTime: "08:50",
+        sessionIds: [paper4]
     }
     - {
-        startTime: "09:00",
+        startTime: "08:50",
+        endTime: "09:10",
+        sessionIds: [paper5]
+    }
+    - {
+        startTime: "09:10",
+        endTime: "09:40",
+        sessionIds: [jason_talk]
+    }
+    - {
+        startTime: "09:40",
         endTime: "10:00",
-        sessionIds: [papers]
+        sessionIds: [paper8]
     }
     - {
         startTime: "10:00",
-        endTime: "10:30",
-        sessionIds: [megain_talk]
+        endTime: "10:20",
+        sessionIds: [paper10]
     }
     - {
-        startTime: "10:30",
+        startTime: "10:20",
         endTime: "11:00",
-        sessionIds: [papers]
+        sessionIds: [megain_talk]
     }
+    # - {
+    #     startTime: "10:30",
+    #     endTime: "11:00",
+    #     sessionIds: [papers]
+    # }
     - {
         startTime: "11:00",
         endTime: "11:20",
-        sessionIds: [jason_talk]
+        sessionIds: [tbd]
     }
     - {
         startTime: "11:20",
@@ -370,7 +410,7 @@
     - {
         startTime: "16:00",
         endTime: "16:30",
-        sessionIds: [tbd]
+        sessionIds: [dsa_grant]
     }
     - {
         # day wrap up

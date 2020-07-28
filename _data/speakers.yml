@@ -415,13 +415,11 @@
 # DO NOT REMOTE THIS DUMMY SPEAKER. USED AS FILLER
 #
 
-# -
-#   id: dummy
-#   name: "First"
-#   surname: "Last"
-#   company: "Affiliation"
-#   title: "Title"
-#   bio: ""
-#   thumbnailUrl: person.jpg
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/tt"}
+-
+  id: dummy
+  name: "First"
+  surname: "Last"
+  company: "Affiliation"
+  title: "Title"
+  bio: ""
+  thumbnailUrl: person.jpg
