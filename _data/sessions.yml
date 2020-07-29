@@ -398,6 +398,14 @@
   speakers: [shelmith]
   language: en
   complexity: "Intermediate"
+-
+  id: sabelo_keynote
+  title: "Ubuntu Personhood & Decolonizing AI"
+  description: "Ubuntu Personhood & Decolonizing AI"
+  subtype: presentation
+  speakers: [sabelo]
+  language: en
+  complexity: "Intermediate"
 
 
 

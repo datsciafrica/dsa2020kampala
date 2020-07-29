@@ -243,7 +243,7 @@
     - {
         startTime: "10:30",
         endTime: "11:10",
-        sessionIds: [keynote_Ernest]
+        sessionIds: [blank]
     }
     - {
     	startTime: "11:10",
@@ -259,7 +259,7 @@
         # Keynote 2
         startTime: "12:30",
         endTime: "13:00",
-        sessionIds: [blank]
+        sessionIds: [keynote_Ernest]
     }
     - {
         startTime: "13:00",
@@ -386,17 +386,17 @@
         # Panel
         startTime: "14:00",
         endTime: "14:30",
-        sessionIds: [panel_hold]
+        sessionIds: [blank]
     }
     - {
         startTime: "14:30",
         endTime: "15:15",
-        sessionIds: [tbd]
+        sessionIds: [dsa_ug]
     }
     - {
         startTime: "15:15",
         endTime: "16:00",
-        sessionIds: [dsa_ug]
+        sessionIds: [sabelo_keynote]
     }
     - {
         startTime: "16:00",
