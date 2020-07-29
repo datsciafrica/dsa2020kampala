@@ -279,10 +279,10 @@
   complexity: "Intermediate"
   presentation: "tbd"
 - 
-  id: fb_public_data
-  title: "Facebook Publicly Available Data"
+  id: africapolis
+  title: "AfricaPolis"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [Abel]
   language: en
   complexity: "Intermediate"
   presentation: "tbd"
@@ -380,81 +380,83 @@
 #-------------------------------------------------
 - 
   id: paper1
-  title: "Contributed Paper 1"
+  title: "Contributed Paper 1: Automatic screening tool for Pap smears - Jaafaru Jibrin"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [author1]
   language: en
   complexity: "Beginner"
   presentation: "tbd"
 - 
   id: paper2
-  title: "Contributed Paper 2"
+  title: "Contributed Paper 2: A Deep Learning Approach for Quantifying the Effects of Tuta absoluta in
+Tomato Plants - Loyani Kisula Loyani"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [author]
   language: en
   complexity: "Beginner"
   presentation: "tbd"
 - 
   id: paper3
-  title: "Contributed Paper 3"
+  title: "Contributed Paper 3: A platform for disease intervention planning - Charles M. Wachira"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [wachira]
   language: en
   complexity: "Beginner"
   presentation: "tbd"
 - 
   id: paper4
-  title: "Contributed Paper 4"
+  title: "Contributed Paper 4: Increasing agricultural productivity in Africa using a
+discriminative deep learning model for farmland bird invasion identification and prevention system - Halleluyah Oluwatobi Aworinde"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [Halleluyah]
   language: en
   complexity: "Beginner"
   presentation: "tbd"
 - 
   id: paper5
-  title: "Contributed Paper 5"
+  title: "Contributed Paper 5: A deep learning-based detector for Brown Spot Disease in passion fruit plants - Andrew Katumba"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [katumba]
   language: en
   complexity: "Beginner"
   presentation: "tbd"
 - 
   id: paper6
-  title: "Contributed Paper 6"
+  title: "Contributed Paper 6: Student Counselling Chatbot - Tesfay Gebremeskel"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [Gebremeskel]
   language: en
   complexity: "Beginner"
   presentation: "tbd"
 - 
   id: paper7
-  title: "Contributed Paper 7"
+  title: "Contributed Paper 7: nternet of Things Based Mobile Application for Environmental Conditions Monitoring in Poultry House with Machine Learning Algorithms - Beston Lufyagila"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [beston]
   language: en
   complexity: "Beginner"
   presentation: "tbd"
 - 
   id: paper8
-  title: "Contributed Paper 8"
+  title: "Contributed Paper 8: Artificial Intelligent E-extension Unmanned Aerial Vehicle (UAV) for Local Farmers - Adebayo Segun"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [adebayo]
   language: en
   complexity: "Beginner"
   presentation: "tbd"
 - 
   id: paper9
-  title: "Contributed Paper 9"
+  title: "Contributed Paper 9: Polarity and Similarity Measures Towards Classifying Articles on Food Insecurity - Andrew Lukyamuzi"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [andrew]
   language: en
   complexity: "Beginner"
   presentation: "tbd"
 - 
   id: paper10
-  title: "Contributed Paper 10"
+  title: "Contributed Paper 10: Geometry and Topology in Epidemiology Tracking - Colleen Farrelly"
   subtype: presentation
-  speakers: [dummy]
+  speakers: [colleen]
   language: en
   complexity: "Beginner"
   presentation: "tbd"

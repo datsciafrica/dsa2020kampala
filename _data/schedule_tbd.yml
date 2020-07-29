@@ -294,13 +294,13 @@
     }
     - {
         startTime: "14:50",
-        endTime: "15:15",
+        endTime: "15:30",
         sessionIds: [blank]
     }
     - {
-        startTime: "15:15",
+        startTime: "15:30",
         endTime: "16:00",
-        sessionIds: [fb_public_data]
+        sessionIds: [africapolis]
     }
     - {
         # Lacuna
@@ -348,7 +348,7 @@
     - {
         startTime: "09:40",
         endTime: "10:00",
-        sessionIds: [paper8]
+        sessionIds: [paper9]
     }
     - {
         startTime: "10:00",
