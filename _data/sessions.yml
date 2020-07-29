@@ -351,10 +351,18 @@
   complexity: "Beginner"
   presentation: "tbd"
 - 
-  id: sanchis_talk
+  id: UNGlobal_Pulse
   title: "Keynote: UN Pulse Lab Kampala"
   subtype: presentation
-  speakers: [hidalgo]
+  speakers: [hidalgo,martin]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+ - 
+  id: dsa_ug
+  title: "Panel: Data Science Africa Uganda Chapter"
+  subtype: presentation
+  speakers: [joyce,martin,ernest,engineer,justus_bernard]
   language: en
   complexity: "Beginner"
   presentation: "tbd"
