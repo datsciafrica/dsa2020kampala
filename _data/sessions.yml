@@ -303,6 +303,22 @@
   complexity: "Beginner"
   presentation: "tbd"
 - 
+  id: keynote_Ernest
+  title: "Keynote: #"
+  subtype: presentation
+  speakers: [ernest]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+- 
+  id: keynote_Engineer
+  title: "Keynote: #"
+  subtype: presentation
+  speakers: [engineer]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
+- 
   id: keynote_elaine
   title: "Keynote: Monitoring Behavioral Risk Factors with Internet Search Data"
   subtype: presentation
