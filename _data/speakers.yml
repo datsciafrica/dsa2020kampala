@@ -230,6 +230,15 @@
   social:
     - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
 -
+  id: justus_bernard
+  name: "Justus Bernard"
+  surname: "Muhwezi"
+  title: "Head, Geo-Information Services"
+  company: "Uganda Bureau of Statistics(UBOS)"
+  thumbnailUrl: BJMuhwezi.jpg
+  social:
+    - {name: "twitter", link: "https://twitter.com/MuhweziBernardJ"}
+-
   id: pompe
   name: "Alex"
   surname: "Pompe"
