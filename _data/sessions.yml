@@ -406,7 +406,14 @@
   speakers: [sabelo]
   language: en
   complexity: "Intermediate"
-
+-
+  id: eshangazi_talk
+  title: "E-Shangazi"
+  description: ""
+  subtype: presentation
+  speakers: [dora]
+  language: en
+  complexity: "Intermediate"
 
 
 #-------------------------------------------------
@@ -492,7 +499,14 @@ discriminative deep learning model for farmland bird invasion identification and
   language: en
   complexity: "Beginner"
   presentation: "tbd"
-
+- 
+  id: panel_agriculture_ai
+  title: "Panel Discussion: AI for Agriculture, Productivity & Biodiversity"
+  subtype: presentation
+  speakers: [dina,ernest,ciira,jason]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
 
 
 

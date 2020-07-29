@@ -412,14 +412,14 @@
   id: jared
   name: "Jared"
   surname: "Makario"
-  title: "Student"
-  company: "Dedan Kimathi University of Science and Technology"
+  title: "Research Intern"
+  company: "Center for Data Science and AI, Dedan Kimathi University of Science and Technology"
   thumbnailUrl: jared.jpg
 -
   id: jason
   name: "Jason"
   surname: "Kabi"
-  title: "Student"
+  title: "Data Scientist"
   company: "Dedan Kimathi University of Science and Technology"
   thumbnailUrl: JasonKabi.jpg
 -
