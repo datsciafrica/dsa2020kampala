@@ -383,13 +383,9 @@
     - {
         # Keynote 2
         startTime: "12:30",
-        endTime: "13:00",
-        sessionIds: [keynote_hold]
-    }
-    - {
-        startTime: "13:00",
         endTime: "14:00",
-        sessionIds: [tbd]
+        sessionIds: [UNGlobal_Pulse]
+    
     }
     - {
         # Panel
@@ -405,7 +401,7 @@
     - {
         startTime: "15:15",
         endTime: "16:00",
-        sessionIds: [tbd]
+        sessionIds: [dsa_ug]
     }
     - {
         startTime: "16:00",
