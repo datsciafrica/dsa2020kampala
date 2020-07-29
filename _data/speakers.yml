@@ -222,13 +222,15 @@
     - {name: "site", link: "www.linkedin.com/in/michaelmelese"}
 -
   id: martin
-  name: "Martin"
+  name: "Martin Gordon"
   surname: "Mubangizi"
   title: "Researcher"
   company: "UN Pulse Lab, Kampala"
   thumbnailUrl: martin.png
   social:
     - {name: "twitter", link: "https://twitter.com/mmubangizi15"}
+  ribbon:
+    - {abbr: "DBA", title: "DSA Board Secretary", url: "https://datascienceafrica.org"}
 -
   id: justus
   name: "Justus Bernard"
@@ -284,8 +286,8 @@
   id: hidalgo
   name: "Paula"
   surname: "Hidalgo-Sanchis"
-  title: "Manager"
-  company: "UN Pulse Lab, Kampala"
+  title: "Innovation Advisor"
+  company: "UN Pulse Lab"
   thumbnailUrl: hidalgo.jpg
 -
   id: tom
