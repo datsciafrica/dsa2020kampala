@@ -182,7 +182,7 @@
     - {
         startTime: "13:30",
         endTime: "14:30",
-        sessionIds: [blank]
+        sessionIds: [r_talk]
     }
     - {
         startTime: "14:30",

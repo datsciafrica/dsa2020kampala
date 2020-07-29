@@ -342,6 +342,13 @@
   company: "Havard University"
   thumbnailUrl: Rediet.jpg
 -
+  id: abeba
+  name: "Abeba"
+  surname: "Birhane"
+  title: "PhD Candidate"
+  company: "University College Dublin & Lero"
+  thumbnailUrl: abeba.jpg
+-
   id: irenelo
   name: "Irene"
   surname: "Lo"
@@ -362,6 +369,13 @@
   title: "PhD Candidate"
   company: "University of Oxford"
   thumbnailUrl: francisco.png
+-
+  id: obaido
+  name: "George"
+  surname: "Obaido"
+  title: "Research Associate"
+  company: "University of Witwatersrand"
+  thumbnailUrl: george.jpg
 -
   id: lilyxu
   name: "Lily"
@@ -397,6 +411,15 @@
   title: "Student"
   company: "Dedan Kimathi University of Science and Technology"
   thumbnailUrl: JasonKabi.jpg
+-
+  id: shelmith
+  name: "Shelmith"
+  surname: "Kariuki"
+  title: "Senior Data Analyst"
+  company: "Busara Center for Behavioral Economics"
+  thumbnailUrl: ShelDSA.jpg
+
+
 
 # 
 # 

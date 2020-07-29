@@ -257,7 +257,7 @@
   Developing Nations (Francisco Marmolejo-Cossio),
   Data Economies (Abeba Birhane & George Obaido)
   "
-  speakers: [rediet,wanyili,lilyxu,samuel,francisco,ana_andreea,irenelo]
+  speakers: [rediet,abeba,wanyili,lilyxu,samuel,francisco,obaido,ana_andreea,irenelo]
   language: en
   complexity: "Intermediate"
   # presentation: "tbd"
@@ -366,7 +366,14 @@
   speakers: [ciira]
   language: en
   complexity: "Beginner"
-
+-
+  id: r_talk
+  title: "Exploring R for Spatial Analytics"
+  description: "Exploring R for Spatial Analytics"
+  subtype: presentation
+  speakers: [shelmith]
+  language: en
+  complexity: "Intermediate"
 
 
 
