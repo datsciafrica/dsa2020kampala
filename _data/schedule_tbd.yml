@@ -280,7 +280,7 @@
         # Panel
         startTime: "14:00",
         endTime: "14:30",
-        sessionIds: [panel_hold]
+        sessionIds: [panel_agriculture_ai]
     }
     - {
         startTime: "14:30",
