@@ -264,7 +264,7 @@
         # Keynote 2
         startTime: "12:30",
         endTime: "13:00",
-        sessionIds: [sanchis_talk]
+        sessionIds: [blank]
     }
     - {
         startTime: "13:00",
