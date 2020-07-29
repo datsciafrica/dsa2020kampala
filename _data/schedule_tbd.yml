@@ -238,17 +238,12 @@
     - {
     	startTime: "10:00",
     	endTime: "10:30",
-    	sessionIds: [keynote_hold]
+    	sessionIds: [keynote_Engineer]
     }
     - {
         startTime: "10:30",
-        endTime: "10:50",
-        sessionIds: [blank]
-    }
-    - {
-        startTime: "10:50",
         endTime: "11:10",
-        sessionIds: [blank]
+        sessionIds: [keynote_Ernest]
     }
     - {
     	startTime: "11:10",
