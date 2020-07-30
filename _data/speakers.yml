@@ -436,6 +436,14 @@
   title: "Fellow"
   company: "Berkman Klein Center for Internet & Society, Havard University"
   thumbnailUrl: sabelo.jpg
+-
+  id: beatrice
+  name: "Beatrice"
+  surname: "Kariuki"
+  title: "Consultant, Public health specialist and health data analyst"
+  company: ""
+  thumbnailUrl: beatrice.jpg
+
 
 
 # 

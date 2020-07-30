@@ -386,7 +386,7 @@
         # Panel
         startTime: "14:00",
         endTime: "14:30",
-        sessionIds: [blank]
+        sessionIds: [beatrice_talk]
     }
     - {
         startTime: "14:30",

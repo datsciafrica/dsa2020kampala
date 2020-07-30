@@ -507,8 +507,14 @@ discriminative deep learning model for farmland bird invasion identification and
   language: en
   complexity: "Beginner"
   presentation: "tbd"
-
-
+- 
+  id: beatrice_talk
+  title: "Data science opportunities in Health in Africa"
+  subtype: presentation
+  speakers: [beatrice]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
 
 
 ########
