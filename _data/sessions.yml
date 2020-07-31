@@ -515,6 +515,14 @@ discriminative deep learning model for farmland bird invasion identification and
   language: en
   complexity: "Beginner"
   presentation: "tbd"
+- 
+  id: fb_hackathon
+  title: "Facebook Hackathon Announcement"
+  subtype: presentation
+  speakers: [chimdi]
+  language: en
+  complexity: "Beginner"
+  presentation: "tbd"
 
 
 ########

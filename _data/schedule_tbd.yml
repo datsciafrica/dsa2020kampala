@@ -396,7 +396,7 @@
     - {
         startTime: "15:15",
         endTime: "16:00",
-        sessionIds: [sabelo_keynote]
+        sessionIds: [fb_hackathon] #sabelo_keynote
     }
     - {
         startTime: "16:00",
