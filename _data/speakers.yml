@@ -429,13 +429,13 @@
   title: "Senior Data Analyst"
   company: "Independent Consultant"
   thumbnailUrl: ShelDSA.jpg
--
-  id: sabelo
-  name: "Sabelo"
-  surname: "Mhlambi"
-  title: "Fellow"
-  company: "Berkman Klein Center for Internet & Society, Havard University"
-  thumbnailUrl: sabelo.jpg
+# -
+#   id: sabelo
+#   name: "Sabelo"
+#   surname: "Mhlambi"
+#   title: "Fellow"
+#   company: "Berkman Klein Center for Internet & Society, Havard University"
+#   thumbnailUrl: sabelo.jpg
 -
   id: beatrice
   name: "Beatrice"
